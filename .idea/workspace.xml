@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="upgrade aula002TiposPrimitivos ajuste">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula03TiposPrimitivosExercicios">
+  <component name="RunManager" selected="Application.Aula04Operadores">
     <configuration name="Aula01OlaDevX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula01OlaDevX" />
       <module name="maratona-java" />
@@ -73,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula04Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula04Operadores" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula04Operadores" />
         <item itemvalue="Application.Aula03TiposPrimitivosExercicios" />
         <item itemvalue="Application.Aula02TiposPrimitivos" />
         <item itemvalue="Application.Aula01OlaDevX" />
@@ -146,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660854317053</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8">
+      <created>1660859279303</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660859279303</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +187,8 @@
     <MESSAGE value="Aula02TiposPrimitivos, criando variaveis" />
     <MESSAGE value="upgrade aula002TiposPrimitivos" />
     <MESSAGE value="upgrade aula002TiposPrimitivos ajuste" />
-    <option name="LAST_COMMIT_MESSAGE" value="upgrade aula002TiposPrimitivos ajuste" />
+    <MESSAGE value="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -176,6 +197,11 @@
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
