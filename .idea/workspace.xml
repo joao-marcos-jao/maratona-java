@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Aula04Operadores">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula04Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660859279303</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Aula04Operadores">
+      <created>1660863972905</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660863972905</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +195,8 @@
     <MESSAGE value="upgrade aula002TiposPrimitivos" />
     <MESSAGE value="upgrade aula002TiposPrimitivos ajuste" />
     <MESSAGE value="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8" />
+    <MESSAGE value="Aula04Operadores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula04Operadores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
