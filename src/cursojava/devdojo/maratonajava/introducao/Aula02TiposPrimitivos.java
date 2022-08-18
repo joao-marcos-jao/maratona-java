@@ -15,6 +15,7 @@ public class Aula02TiposPrimitivos {
 
 
         System.out.println("A idade é "+age+" Anos");
+        System.out.println(caractere);
 
     }
 }
