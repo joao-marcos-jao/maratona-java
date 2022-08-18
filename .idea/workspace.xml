@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Aula02TiposPrimitivos, criando variaveis">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="upgrade aula002TiposPrimitivos ajuste">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
     </list>
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula02TiposPrimitivos">
+  <component name="RunManager" selected="Application.Aula03TiposPrimitivosExercicios">
     <configuration name="Aula01OlaDevX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula01OlaDevX" />
       <module name="maratona-java" />
@@ -59,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula03TiposPrimitivosExercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicios" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula03TiposPrimitivosExercicios" />
         <item itemvalue="Application.Aula02TiposPrimitivos" />
         <item itemvalue="Application.Aula01OlaDevX" />
       </list>
@@ -117,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660848463759</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="upgrade aula002TiposPrimitivos">
+      <created>1660854198765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660854198765</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upgrade aula002TiposPrimitivos ajuste">
+      <created>1660854317053</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660854317053</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +165,19 @@
     <MESSAGE value="criei comentarios; comentarios de uma lnha, comentarios de mutiplas linha e comentario java doc" />
     <MESSAGE value="modifiquei o nome do projeto, para uma melhor organizaçao das aulas" />
     <MESSAGE value="Aula02TiposPrimitivos, criando variaveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula02TiposPrimitivos, criando variaveis" />
+    <MESSAGE value="upgrade aula002TiposPrimitivos" />
+    <MESSAGE value="upgrade aula002TiposPrimitivos ajuste" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgrade aula002TiposPrimitivos ajuste" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicios.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
