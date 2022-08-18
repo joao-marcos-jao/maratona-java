@@ -39,8 +39,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="OlaDevX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.OlaDevX" />
+    <configuration name="Aula01OlaDevX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula01OlaDevX" />
       <module name="maratona-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,7 +48,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OlaDevX" />
+        <item itemvalue="Application.Aula01OlaDevX" />
       </list>
     </recent_temporary>
   </component>

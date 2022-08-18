@@ -3,7 +3,7 @@ package cursojava.devdojo.maratonajava.introducao;
 /**
  * Isso é um comentario <b>javadoc</b>
  */
-public class OlaDevX {
+public class Aula01OlaDevX {
     // isso é um comentario de uma Linha
     /* isso é um comentario de
     mutiplas Linhas
