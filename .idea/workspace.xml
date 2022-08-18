@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="criado primeiro algoritimo no intelj e criado os pacotes">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="modifiquei o nome do projeto, para uma melhor organizaçao das aulas">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/OlaDevX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/OlaDevX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Aula02TiposPrimitivos">
     <configuration name="Aula01OlaDevX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula01OlaDevX" />
       <module name="maratona-java" />
@@ -46,8 +46,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula02TiposPrimitivos" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula02TiposPrimitivos" />
         <item itemvalue="Application.Aula01OlaDevX" />
       </list>
     </recent_temporary>
@@ -82,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660844368311</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="criei comentarios; comentarios de uma lnha, comentarios de mutiplas linha e comentario java doc">
+      <created>1660846443981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660846443982</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modifiquei o nome do projeto, para uma melhor organizaçao das aulas">
+      <created>1660846726728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660846726728</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criado primeiro algoritimo no intelj e criado os pacotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="criado primeiro algoritimo no intelj e criado os pacotes" />
+    <MESSAGE value="criei comentarios; comentarios de uma lnha, comentarios de mutiplas linha e comentario java doc" />
+    <MESSAGE value="modifiquei o nome do projeto, para uma melhor organizaçao das aulas" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifiquei o nome do projeto, para uma melhor organizaçao das aulas" />
   </component>
 </project>
