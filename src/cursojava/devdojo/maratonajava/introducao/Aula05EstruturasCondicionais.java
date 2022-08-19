@@ -7,6 +7,8 @@ public class Aula05EstruturasCondicionais {
         //!
         if (age >=18){
             System.out.println("Autorizado comprar bebida alcólica");
+        }else {
+            System.out.println("Não Autorizado comprar bebida alcólica");
         }
         if (!IsAutorizadoComprBebida ){
             System.out.println("Não Autorizado comprar bebida alcólica");

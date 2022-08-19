@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="aula04 uprgarde&#10;operador de atribuição e contador">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Aula05EstruturasCondicionais&#10;condição if">
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660927849130</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Aula05EstruturasCondicionais&#10;condição if">
+      <created>1660930555070</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660930555070</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +232,8 @@
     <MESSAGE value="Aula04Operadores" />
     <MESSAGE value="upgrade aula04&#10;foi adicionado resto da divisão&#10;e operadores lógicos" />
     <MESSAGE value="aula04 uprgarde&#10;operador de atribuição e contador" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula04 uprgarde&#10;operador de atribuição e contador" />
+    <MESSAGE value="Aula05EstruturasCondicionais&#10;condição if" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula05EstruturasCondicionais&#10;condição if" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,7 +250,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais.java</url>
-          <line>13</line>
+          <line>15</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
