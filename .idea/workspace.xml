@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Aula05EstruturasCondicionais upgrade&#10;adicionado o else">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais03">
-    <configuration name="Aula03TiposPrimitivosExercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula03TiposPrimitivosExercicios" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais04">
     <configuration name="Aula04Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula04Operadores" />
       <module name="maratona-java" />
@@ -106,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula05EstruturasCondicionais04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula05EstruturasCondicionais04" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula05EstruturasCondicionais04" />
         <item itemvalue="Application.Aula05EstruturasCondicionais03" />
         <item itemvalue="Application.Aula05EstruturasCondicionais02" />
         <item itemvalue="Application.Aula05EstruturasCondicionais01" />
         <item itemvalue="Application.Aula04Operadores" />
-        <item itemvalue="Application.Aula03TiposPrimitivosExercicios" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660931361390</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Aula05EstruturasCondicionais upgrade&#10;adicionado o else">
+      <created>1660936149136</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660936149136</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +274,11 @@
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java</url>
           <line>15</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
