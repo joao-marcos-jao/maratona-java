@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao05.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Aula06EstruturasDeRepeticao05&#10;exerciciou continue">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/introducao/Aula07Arrays01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,20 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Aula06EstruturasDeRepeticao05">
-    <configuration name="Aula06EstruturasDeRepeticao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Aula07Arrays01">
     <configuration name="Aula06EstruturasDeRepeticao02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula06EstruturasDeRepeticao02" />
       <module name="maratona-java" />
@@ -104,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aula07Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula07Arrays01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula07Arrays01" />
         <item itemvalue="Application.Aula06EstruturasDeRepeticao05" />
         <item itemvalue="Application.Aula06EstruturasDeRepeticao04" />
         <item itemvalue="Application.Aula06EstruturasDeRepeticao03" />
         <item itemvalue="Application.Aula06EstruturasDeRepeticao02" />
-        <item itemvalue="Application.Aula06EstruturasDeRepeticao01" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661186872316</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Aula06EstruturasDeRepeticao05&#10;exerciciou continue">
+      <created>1661188640962</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1661188640962</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,7 +302,8 @@
     <MESSAGE value="Aula06EstruturasDeRepeticao02&#10;contagem de numeros pares" />
     <MESSAGE value="Aula06EstruturasDeRepeticao03&#10;contagegem e utilização do Break" />
     <MESSAGE value="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar" />
+    <MESSAGE value="Aula06EstruturasDeRepeticao05&#10;exerciciou continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula06EstruturasDeRepeticao05&#10;exerciciou continue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
