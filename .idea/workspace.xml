@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/cauculadoraTes02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação objeto metodo&#10;multiplicacao dois numeros">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" afterDir="false" />
     </list>
@@ -39,13 +39,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.cauculadoraTes02">
-    <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.test.EstudanteTest02" />
+  <component name="RunManager" selected="Application.CauculadoraTest03">
+    <configuration name="CauculadoraTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CauculadoraTest03" />
         <item itemvalue="Application.cauculadoraTes02" />
         <item itemvalue="Application.cauculadoraTest01" />
         <item itemvalue="Application.carro01" />
         <item itemvalue="Application.teacher01" />
-        <item itemvalue="Application.EstudanteTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661285362591</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="orientação objeto metodo&#10;multiplicacao dois numeros">
+      <created>1661285978463</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1661285978463</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +370,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula02TiposPrimitivos, criando variaveis" />
     <MESSAGE value="upgrade aula002TiposPrimitivos" />
     <MESSAGE value="upgrade aula002TiposPrimitivos ajuste" />
     <MESSAGE value="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8" />
@@ -388,7 +394,8 @@
     <MESSAGE value="Orientação objeto &#10;exercicos classes" />
     <MESSAGE value="Orientação objeto &#10;referencia objteto" />
     <MESSAGE value="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros" />
-    <option name="LAST_COMMIT_MESSAGE" value="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros" />
+    <MESSAGE value="orientação objeto metodo&#10;multiplicacao dois numeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientação objeto metodo&#10;multiplicacao dois numeros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,6 +424,11 @@
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/cauculadoraTest01.java</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest03.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
