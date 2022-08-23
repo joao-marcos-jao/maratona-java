@@ -1,8 +1,6 @@
-package cursojava.devdojo.maratonajava.javacore.introducoesclasses.test;
+package cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.test;
 
-import cursojava.devdojo.maratonajava.javacore.introducoesclasses.dominio.Carro;
-
-import java.awt.*;
+import cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.dominio.Carro;
 
 public class carro01 {
     public static void main(String[] args) {

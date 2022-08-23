@@ -1,4 +1,4 @@
-package cursojava.devdojo.maratonajava.javacore.introducoesclasses.dominio;
+package cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.dominio;
 
 public class Teacher {
 public String name;
