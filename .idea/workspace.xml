@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação objeto &#10;referencia objteto">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/cauculadoraTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/cauculadoraTes02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Aintroducoesclasses/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Aintroducoesclasses/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Aintroducoesclasses/dominio/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/EstudanteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Aintroducoesclasses/test/EstudanteTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/EstudanteTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Aintroducoesclasses/test/EstudanteTest02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/carro01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Aintroducoesclasses/test/carro01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/teacher01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Aintroducoesclasses/test/teacher01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.cauculadoraTest01">
-    <configuration name="EstudanteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.test.EstudanteTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.cauculadoraTes02">
     <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.test.EstudanteTest02" />
       <module name="maratona-java" />
@@ -79,6 +59,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Aintroducoesclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cauculadoraTes02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.cauculadoraTes02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cauculadoraTes02" />
         <item itemvalue="Application.cauculadoraTest01" />
         <item itemvalue="Application.carro01" />
         <item itemvalue="Application.teacher01" />
         <item itemvalue="Application.EstudanteTest02" />
-        <item itemvalue="Application.EstudanteTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661283318898</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros">
+      <created>1661285362591</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1661285362591</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +363,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="modifiquei o nome do projeto, para uma melhor organizaçao das aulas" />
     <MESSAGE value="Aula02TiposPrimitivos, criando variaveis" />
     <MESSAGE value="upgrade aula002TiposPrimitivos" />
     <MESSAGE value="upgrade aula002TiposPrimitivos ajuste" />
@@ -388,7 +387,8 @@
     <MESSAGE value="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas" />
     <MESSAGE value="Orientação objeto &#10;exercicos classes" />
     <MESSAGE value="Orientação objeto &#10;referencia objteto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação objeto &#10;referencia objteto" />
+    <MESSAGE value="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
