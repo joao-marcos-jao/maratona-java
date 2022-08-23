@@ -5,8 +5,8 @@ import cursojava.devdojo.maratonajava.javacore.introducoesclasses.dominio.Carro;
 import java.awt.*;
 
 public class carro01 {
-    public static void main(String[] args){
-        Carro carro1  = new Carro();
+    public static void main(String[] args) {
+        Carro carro1 = new Carro();
         Carro carro2 = new Carro();
 
         carro1.name = "Fusca Bala";
@@ -16,7 +16,7 @@ public class carro01 {
         carro2.name = "Mustang";
         carro2.Model = "Gt 500";
         carro2.year = 1968;
-
+        carro1 = carro2;
         System.out.println(" Carro1");
         System.out.println(carro1.name);
         System.out.println(carro1.Model);

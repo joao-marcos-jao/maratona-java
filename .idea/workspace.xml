@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/carro01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação objeto &#10;exercicos classes">
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/carro01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/carro01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661280642448</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Orientação objeto &#10;exercicos classes">
+      <created>1661282945801</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1661282945801</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -342,7 +347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="criado primeiro algoritimo no intelj e criado os pacotes" />
     <MESSAGE value="criei comentarios; comentarios de uma lnha, comentarios de mutiplas linha e comentario java doc" />
     <MESSAGE value="modifiquei o nome do projeto, para uma melhor organizaçao das aulas" />
     <MESSAGE value="Aula02TiposPrimitivos, criando variaveis" />
@@ -367,7 +371,8 @@
     <MESSAGE value="Aula08ArraysMultidimensionais02&#10;foreach inicialição" />
     <MESSAGE value="orientação ao objteo, introdução as classses, variavei e objetos" />
     <MESSAGE value="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas" />
-    <option name="LAST_COMMIT_MESSAGE" value="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas" />
+    <MESSAGE value="Orientação objeto &#10;exercicos classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Orientação objeto &#10;exercicos classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
