@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação ao objteo, introdução as classses, variavei e objetos">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/teacher01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/carro01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/EstudanteTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/introducoesclasses/test/EstudanteTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.teacher01">
-    <configuration name="Aula08ArraysMultidimensionais01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula08ArraysMultidimensionais01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.introducao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.carro01">
     <configuration name="Aula08ArraysMultidimensionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.introducao.Aula08ArraysMultidimensionais02" />
       <module name="maratona-java" />
@@ -93,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="carro01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.introducoesclasses.test.carro01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.introducoesclasses.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="teacher01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.introducoesclasses.test.teacher01" />
       <module name="maratona-java" />
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.carro01" />
         <item itemvalue="Application.teacher01" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudanteTest01" />
         <item itemvalue="Application.Aula08ArraysMultidimensionais02" />
-        <item itemvalue="Application.Aula08ArraysMultidimensionais01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661272898943</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas">
+      <created>1661280642448</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1661280642448</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +366,8 @@
     <MESSAGE value="Aula08ArraysMultidimensionais01&#10;usando forreach" />
     <MESSAGE value="Aula08ArraysMultidimensionais02&#10;foreach inicialição" />
     <MESSAGE value="orientação ao objteo, introdução as classses, variavei e objetos" />
-    <option name="LAST_COMMIT_MESSAGE" value="orientação ao objteo, introdução as classses, variavei e objetos" />
+    <MESSAGE value="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
