@@ -34,5 +34,12 @@ public class Cauculadora {
         }
         System.out.println(num1/num2);
     }
+    public void alteraDoisNumeros (int num1, int num2){
+        num1 = 99;
+        num2 = 98;
+        System.out.println("Dentro Cauculadora altera dois numero");
+        System.out.println("num1 "+num1);
+        System.out.println("num2 "+num2);
+    }
 
 }

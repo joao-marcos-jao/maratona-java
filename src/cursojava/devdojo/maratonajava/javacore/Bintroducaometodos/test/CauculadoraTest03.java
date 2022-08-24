@@ -9,7 +9,7 @@ public class CauculadoraTest03 {
         System.out.println(result);
         System.out.println(cauculadora.divideDoisNumeros2(20,0));
         System.out.println("---------------");
-        cauculadora.i(80,0);
+        cauculadora.imprimaDivisaoDoisNumeros(80,0);
 
     }
 }
