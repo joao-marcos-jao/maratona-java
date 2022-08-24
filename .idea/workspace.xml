@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionariosTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;exercios">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FuncionariosTest01">
-    <configuration name="CauculadoraTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest04" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PessoaTest01">
     <configuration name="CauculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest05" />
       <module name="maratona-java" />
@@ -105,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PessoaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.PessoaTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.FuncionariosTest01" />
         <item itemvalue="Application.CauculadoraTest05" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudantesTest01" />
-        <item itemvalue="Application.CauculadoraTest04" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661373160745</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="oientação objeto&#10;exercios">
+      <created>1661377727174</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1661377727175</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -447,7 +454,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula06EstruturasDeRepeticao01 &#10;iniciaando os procedimentos while,       do while e for" />
     <MESSAGE value="Aula06EstruturasDeRepeticao02&#10;contagem de numeros pares" />
     <MESSAGE value="Aula06EstruturasDeRepeticao03&#10;contagegem e utilização do Break" />
     <MESSAGE value="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar" />
@@ -472,7 +478,8 @@
     <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo" />
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays" />
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs" />
+    <MESSAGE value="oientação objeto&#10;exercios" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;exercios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
