@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="correção no nome das classes, orientação obetos  Referencia tipo primitvo">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoaraEstudantes.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;metododos paramentro tipo variavel referencia">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudantesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudantesTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudantes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EstudantesTest01">
+  <component name="RunManager" selected="Application.EstudanteTest02">
     <configuration name="CauculadoraTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest02" />
       <module name="maratona-java" />
@@ -79,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.EstudanteTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EstudantesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.EstudantesTest01" />
       <module name="maratona-java" />
@@ -92,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cauculadoraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.cauculadoraTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudantesTest01" />
         <item itemvalue="Application.CauculadoraTest04" />
         <item itemvalue="Application.CauculadoraTest03" />
         <item itemvalue="Application.CauculadoraTest02" />
-        <item itemvalue="Application.cauculadoraTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +397,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661363805756</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="oientação objeto&#10;metododos paramentro tipo variavel referencia">
+      <created>1661365752273</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1661365752273</updated>
+    </task>
+    <task id="LOCAL-00041" summary="oientação objeto&#10;metododos paramentro tipo variavel referencia">
+      <created>1661365768454</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1661365768454</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,7 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="aula04 uprgarde&#10;operador de atribuição e contador" />
     <MESSAGE value="Aula05EstruturasCondicionais&#10;condição if" />
     <MESSAGE value="Aula05EstruturasCondicionais upgrade&#10;adicionado o else" />
     <MESSAGE value="Aula05EstruturasCondicionais04&#10;exercicio" />
@@ -437,7 +450,8 @@
     <MESSAGE value="orientação objeto metodo&#10;retorno utilizando diferente diferente (!=)" />
     <MESSAGE value="orientação objeto metodo&#10;retorno utilizando void" />
     <MESSAGE value="correção no nome das classes, orientação obetos  Referencia tipo primitvo" />
-    <option name="LAST_COMMIT_MESSAGE" value="correção no nome das classes, orientação obetos  Referencia tipo primitvo" />
+    <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel referencia" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;metododos paramentro tipo variavel referencia" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
