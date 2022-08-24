@@ -7,6 +7,7 @@ public class EstudantesTest01 {
     public static void main(String[] args) {
         Estudantes estudantes01 = new Estudantes();
         Estudantes estudantes02 = new Estudantes();
+        ImpressoaraEstudantes impressora = new ImpressoaraEstudantes();
 
         estudantes01.name = "Midoriay";
         estudantes01.age = 15;
@@ -16,15 +17,10 @@ public class EstudantesTest01 {
         estudantes02.age = 16;
         estudantes02.sex = 'F';
 
-        System.out.println(estudantes01.name);
-        System.out.println(estudantes01.age);
-        System.out.println(estudantes01.sex);
+        impressora.imprime(estudantes01);
 
-        System.out.println("-------------------");
+        impressora.imprime(estudantes02);
 
-        System.out.println(estudantes02.name);
-        System.out.println(estudantes02.age);
-        System.out.println(estudantes02.sex);
 
 
 
