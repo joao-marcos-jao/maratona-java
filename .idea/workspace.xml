@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação objeto metodo&#10;retorno utilizando else" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientação objeto metodo&#10;retorno utilizando diferente diferente (!=)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest03.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -365,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661354005986</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="orientação objeto metodo&#10;retorno utilizando diferente diferente (!=)">
+      <created>1661354337139</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1661354337139</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,7 +391,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8" />
     <MESSAGE value="Aula04Operadores" />
     <MESSAGE value="upgrade aula04&#10;foi adicionado resto da divisão&#10;e operadores lógicos" />
     <MESSAGE value="aula04 uprgarde&#10;operador de atribuição e contador" />
@@ -405,7 +415,8 @@
     <MESSAGE value="orientação objeto metodo&#10;multiplicacao dois numeros" />
     <MESSAGE value="orientação objeto metodo&#10;retorno" />
     <MESSAGE value="orientação objeto metodo&#10;retorno utilizando else" />
-    <option name="LAST_COMMIT_MESSAGE" value="orientação objeto metodo&#10;retorno utilizando else" />
+    <MESSAGE value="orientação objeto metodo&#10;retorno utilizando diferente diferente (!=)" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientação objeto metodo&#10;retorno utilizando diferente diferente (!=)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
