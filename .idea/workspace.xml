@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest05.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionariosTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661367517706</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays">
+      <created>1661371267777</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1661371267777</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula05EstruturasCondicionais upgrade&#10;adicionado o else" />
     <MESSAGE value="Aula05EstruturasCondicionais04&#10;exercicio" />
     <MESSAGE value="Aula06EstruturasDeRepeticao01 &#10;iniciaando os procedimentos while,       do while e for" />
     <MESSAGE value="Aula06EstruturasDeRepeticao02&#10;contagem de numeros pares" />
@@ -458,7 +466,8 @@
     <MESSAGE value="correção no nome das classes, orientação obetos  Referencia tipo primitvo" />
     <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel referencia" />
     <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo" />
+    <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
