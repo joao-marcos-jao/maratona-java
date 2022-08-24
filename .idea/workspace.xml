@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;exercios">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -439,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661377727175</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit">
+      <created>1661378646628</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1661378646628</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -454,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula06EstruturasDeRepeticao02&#10;contagem de numeros pares" />
     <MESSAGE value="Aula06EstruturasDeRepeticao03&#10;contagegem e utilização do Break" />
     <MESSAGE value="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar" />
     <MESSAGE value="Aula06EstruturasDeRepeticao05&#10;exerciciou continue" />
@@ -479,7 +485,8 @@
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays" />
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs" />
     <MESSAGE value="oientação objeto&#10;exercios" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;exercios" />
+    <MESSAGE value="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -5,9 +5,11 @@ import cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Pessoa
 public class PessoaTest01 {
     public static void main(String[] args){
         Pessoas pessoas = new Pessoas();
-        pessoas.nome = "Jiraya";
-        pessoas.idade = 70;
-        pessoas.imprime();
+        pessoas.setNome("Jiraya");
+        pessoas.setIdade(70);
+
+        System.out.println(pessoas.getNome());
+        System.out.println(pessoas.getIdade());
 
     }
 
