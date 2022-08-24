@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;metododos paramentro tipo variavel referencia">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/CauculadoraTest05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Cauculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EstudanteTest02">
-    <configuration name="CauculadoraTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CauculadoraTest05">
     <configuration name="CauculadoraTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest03" />
       <module name="maratona-java" />
@@ -68,6 +55,19 @@
     </configuration>
     <configuration name="CauculadoraTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest04" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CauculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest05" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CauculadoraTest05" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudantesTest01" />
         <item itemvalue="Application.CauculadoraTest04" />
         <item itemvalue="Application.CauculadoraTest03" />
-        <item itemvalue="Application.CauculadoraTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661365768454</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo">
+      <created>1661367517706</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1661367517706</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula05EstruturasCondicionais&#10;condição if" />
     <MESSAGE value="Aula05EstruturasCondicionais upgrade&#10;adicionado o else" />
     <MESSAGE value="Aula05EstruturasCondicionais04&#10;exercicio" />
     <MESSAGE value="Aula06EstruturasDeRepeticao01 &#10;iniciaando os procedimentos while,       do while e for" />
@@ -451,7 +457,8 @@
     <MESSAGE value="orientação objeto metodo&#10;retorno utilizando void" />
     <MESSAGE value="correção no nome das classes, orientação obetos  Referencia tipo primitvo" />
     <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel referencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;metododos paramentro tipo variavel referencia" />
+    <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
