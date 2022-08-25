@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto modificadores de acesso, private e get virado no jeraya">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionariosTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionariosTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PessoaTest01">
+  <component name="RunManager" selected="Application.FuncionariosTest01">
     <configuration name="CauculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest05" />
       <module name="maratona-java" />
@@ -107,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.FuncionariosTest01" />
+        <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.CauculadoraTest05" />
         <item itemvalue="Application.EstudanteTest02" />
         <item itemvalue="Application.EstudantesTest01" />
@@ -446,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661378646628</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="oientação objeto modificadores de acesso, private e get virado no jeraya">
+      <created>1661385077872</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1661385077872</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +468,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula06EstruturasDeRepeticao03&#10;contagegem e utilização do Break" />
     <MESSAGE value="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar" />
     <MESSAGE value="Aula06EstruturasDeRepeticao05&#10;exerciciou continue" />
     <MESSAGE value="Aula07Arrays01&#10;inicio da aula de arrays" />
@@ -486,7 +492,8 @@
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs" />
     <MESSAGE value="oientação objeto&#10;exercios" />
     <MESSAGE value="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit" />
+    <MESSAGE value="oientação objeto modificadores de acesso, private e get virado no jeraya" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto modificadores de acesso, private e get virado no jeraya" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
