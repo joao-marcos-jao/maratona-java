@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto modificadores de acesso, private e get virado no jeraya">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto modificadores de acesso, private e get gerados pela IDE">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionariosTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionariosTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FuncionariosTest01">
+  <component name="RunManager" selected="Application.AnimeTest01">
+    <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CauculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest05" />
       <module name="maratona-java" />
@@ -55,19 +68,6 @@
     </configuration>
     <configuration name="EstudanteTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.EstudanteTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstudantesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.EstudantesTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.FuncionariosTest01" />
         <item itemvalue="Application.PessoaTest01" />
         <item itemvalue="Application.CauculadoraTest05" />
         <item itemvalue="Application.EstudanteTest02" />
-        <item itemvalue="Application.EstudantesTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661385077872</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="oientação objeto modificadores de acesso, private e get gerados pela IDE">
+      <created>1661387179056</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1661387179056</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,7 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar" />
     <MESSAGE value="Aula06EstruturasDeRepeticao05&#10;exerciciou continue" />
     <MESSAGE value="Aula07Arrays01&#10;inicio da aula de arrays" />
     <MESSAGE value="Aula07Arrays02" />
@@ -493,7 +499,8 @@
     <MESSAGE value="oientação objeto&#10;exercios" />
     <MESSAGE value="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit" />
     <MESSAGE value="oientação objeto modificadores de acesso, private e get virado no jeraya" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto modificadores de acesso, private e get virado no jeraya" />
+    <MESSAGE value="oientação objeto modificadores de acesso, private e get gerados pela IDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto modificadores de acesso, private e get gerados pela IDE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
