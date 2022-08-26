@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/test/AnimeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Eblocosinicializacao/test/AnimeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/test/AnimeTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -45,26 +48,13 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cursojava.devdojo.maratonajava.javacore.Dconstrutor.test.AnimeTest01">
+  <component name="RunManager" selected="Application.cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CauculadoraTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.CauculadoraTest05" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Bintroducaometodos.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
         <item itemvalue="Application.cursojava.devdojo.maratonajava.javacore.Dconstrutor.test.AnimeTest01" />
         <item itemvalue="Application.AnimeTest01" />
         <item itemvalue="Application.FuncionariosTest01" />
         <item itemvalue="Application.PessoaTest01" />
-        <item itemvalue="Application.CauculadoraTest05" />
       </list>
     </recent_temporary>
   </component>
@@ -129,13 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00004" summary="criei comentarios; comentarios de uma lnha, comentarios de mutiplas linha e comentario java doc">
-      <created>1660846443981</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1660846443982</updated>
     </task>
     <task id="LOCAL-00005" summary="modifiquei o nome do projeto, para uma melhor organizaçao das aulas">
       <created>1660846726728</created>
@@ -473,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661531704861</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor">
+      <created>1661531721430</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1661531721430</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -568,11 +571,28 @@
           <line>10</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java</url>
           <line>5</line>
           <properties field="nome" class="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.dominio.Anime" />
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java</url>
+          <line>6</line>
+          <properties field="genero" class="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio.Anime" />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java</url>
+          <line>7</line>
+          <properties field="studio" class="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio.Anime" />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
