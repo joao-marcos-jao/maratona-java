@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor">
       <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/test/AnimeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -129,13 +129,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00003" summary="criado primeiro algoritimo no intelj e criado os pacotes">
-      <created>1660844368311</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1660844368311</updated>
     </task>
     <task id="LOCAL-00004" summary="criei comentarios; comentarios de uma lnha, comentarios de mutiplas linha e comentario java doc">
       <created>1660846443981</created>
@@ -473,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661529361008</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor">
+      <created>1661531704861</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1661531704861</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula07Arrays02" />
     <MESSAGE value="Aula08ArraysMultidimensionais01&#10;usando for" />
     <MESSAGE value="Aula08ArraysMultidimensionais01&#10;usando forreach" />
     <MESSAGE value="Aula08ArraysMultidimensionais02&#10;foreach inicialição" />
@@ -513,7 +512,8 @@
     <MESSAGE value="oientação objeto modificadores de acesso, private e get gerados pela IDE" />
     <MESSAGE value="oientação objeto cargas e sobre cargas utilizando metodo init" />
     <MESSAGE value="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes" />
+    <MESSAGE value="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
