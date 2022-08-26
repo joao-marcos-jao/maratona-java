@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto cargas e sobre cargas utilizando metodo init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,13 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00001" summary="criado primeiro algoritimo no intelj e criado os pacotes">
-      <created>1660844289752</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1660844289752</updated>
     </task>
     <task id="LOCAL-00002" summary="criado primeiro algoritimo no intelj e criado os pacotes">
       <created>1660844322932</created>
@@ -467,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661460449224</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes">
+      <created>1661528905737</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1661528905739</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aula07Arrays01&#10;inicio da aula de arrays" />
     <MESSAGE value="Aula07Arrays02" />
     <MESSAGE value="Aula08ArraysMultidimensionais01&#10;usando for" />
     <MESSAGE value="Aula08ArraysMultidimensionais01&#10;usando forreach" />
@@ -507,7 +502,8 @@
     <MESSAGE value="oientação objeto modificadores de acesso, private e get virado no jeraya" />
     <MESSAGE value="oientação objeto modificadores de acesso, private e get gerados pela IDE" />
     <MESSAGE value="oientação objeto cargas e sobre cargas utilizando metodo init" />
-    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto cargas e sobre cargas utilizando metodo init" />
+    <MESSAGE value="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes" />
+    <option name="LAST_COMMIT_MESSAGE" value="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
