@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação objeto &#10;Modificador static: modificador static depois do modificador de acesso conforme as boas praticas de progamação&#10;                    pelo fato do modificador de aceso statico utilizar na variavel, a mesma deixa de pertencer ao objeto em si, passa pertencer a classe   qualque modificação a um dos objetos modifica todos objeto pois nao pertece mais a uma unica instancia&#10;                    o modificado static vai fazer o atributo a pertecer a classe e todos objetos vao compartiçhar o mesmo valor">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto&#10;Metodos static">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Fmodificadorestatico/dominio/Carros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Fmodificadorestatico/dominio/Carros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Fmodificadorestatico/test/carrosTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Fmodificadorestatico/test/carrosTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,13 +141,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00008" summary="upgrade aula002TiposPrimitivos ajuste">
-      <created>1660854317053</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1660854317053</updated>
     </task>
     <task id="LOCAL-00009" summary="Tipos primitovos exercico, tabem aprendi a debugar codigo ctrl+F8">
       <created>1660859279303</created>
@@ -487,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661880507984</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Orientação Objeto&#10;Metodos static">
+      <created>1661881994449</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1661881994449</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientação ao objteo, introdução as classses, variavei e objetos" />
     <MESSAGE value="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas" />
     <MESSAGE value="Orientação objeto &#10;exercicos classes" />
     <MESSAGE value="Orientação objeto &#10;referencia objteto" />
@@ -527,7 +524,8 @@
     <MESSAGE value="Orientação objeto construtores. &#10;finalizado carga e sobrecargas de construtor&#10;iniciado blocos de inicialização" />
     <MESSAGE value="Orientação objeto Bloco de Inicialização&#10;ele é executado antes dos construtore" />
     <MESSAGE value="Orientação objeto &#10;Modificador static: modificador static depois do modificador de acesso conforme as boas praticas de progamação&#10;                    pelo fato do modificador de aceso statico utilizar na variavel, a mesma deixa de pertencer ao objeto em si, passa pertencer a classe   qualque modificação a um dos objetos modifica todos objeto pois nao pertece mais a uma unica instancia&#10;                    o modificado static vai fazer o atributo a pertecer a classe e todos objetos vao compartiçhar o mesmo valor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação objeto &#10;Modificador static: modificador static depois do modificador de acesso conforme as boas praticas de progamação&#10;                    pelo fato do modificador de aceso statico utilizar na variavel, a mesma deixa de pertencer ao objeto em si, passa pertencer a classe   qualque modificação a um dos objetos modifica todos objeto pois nao pertece mais a uma unica instancia&#10;                    o modificado static vai fazer o atributo a pertecer a classe e todos objetos vao compartiçhar o mesmo valor" />
+    <MESSAGE value="Orientação Objeto&#10;Metodos static" />
+    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto&#10;Metodos static" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
