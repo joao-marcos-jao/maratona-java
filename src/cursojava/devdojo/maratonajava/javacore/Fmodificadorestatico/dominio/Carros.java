@@ -18,6 +18,12 @@ public class Carros{
         System.out.println(" Velocidade Maxima " + this.velocidadeMaxima);
         System.out.println(" Velocidade Limite "+ Carros.velocidadeLimite);
     }
+    public static void setVelocidadeLimite (double velocidadeLimite){
+        Carros.velocidadeLimite = velocidadeLimite;
+    }
+    public static double getVelocidadeLimite(){
+        return Carros.velocidadeLimite;
+    }
         public String getNome(){
         return nome;
         }
