@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto&#10;Blocos de Inicialização static:&#10; bloco do inicialização é carregado somente uma vez quando carrega pela classe JVM&#10;acontecantes de qualquer coisa antes mesmo do espaço alocado em memoria&#10;se tiver mais de um eles vao ser execuatdo de acordo com a ordem que aparece no codigo&#10;não pode acessar atributos de instancia dentro de metodos static&#10;pode ter bloco de inicialização junto com os blocos de inicialização static">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos.">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Escola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,13 +48,26 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.JogadorTest02">
+  <component name="RunManager" selected="Application.EscolaTest">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscolaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.EscolaTest" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -130,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EscolaTest" />
         <item itemvalue="Application.JogadorTest02" />
         <item itemvalue="Application.JogadorTest01" />
         <item itemvalue="Application.cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.AnimeTest01" />
         <item itemvalue="Application.carrosTest01" />
-        <item itemvalue="Application.cursojava.devdojo.maratonajava.javacore.Eblocosinicializacao.test.AnimeTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -146,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00011" summary="upgrade aula04&#10;foi adicionado resto da divisão&#10;e operadores lógicos">
-      <created>1660866175566</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1660866175566</updated>
     </task>
     <task id="LOCAL-00012" summary="aula04 uprgarde&#10;operador de atribuição e contador">
       <created>1660927849130</created>
@@ -490,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661884599735</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos.">
+      <created>1661958227791</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1661958227792</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Orientação objeto &#10;exercicos classes" />
     <MESSAGE value="Orientação objeto &#10;referencia objteto" />
     <MESSAGE value="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros" />
     <MESSAGE value="orientação objeto metodo&#10;multiplicacao dois numeros" />
@@ -530,7 +528,8 @@
     <MESSAGE value="Orientação objeto &#10;Modificador static: modificador static depois do modificador de acesso conforme as boas praticas de progamação&#10;                    pelo fato do modificador de aceso statico utilizar na variavel, a mesma deixa de pertencer ao objeto em si, passa pertencer a classe   qualque modificação a um dos objetos modifica todos objeto pois nao pertece mais a uma unica instancia&#10;                    o modificado static vai fazer o atributo a pertecer a classe e todos objetos vao compartiçhar o mesmo valor" />
     <MESSAGE value="Orientação Objeto&#10;Metodos static" />
     <MESSAGE value="Orientação Objeto&#10;Blocos de Inicialização static:&#10; bloco do inicialização é carregado somente uma vez quando carrega pela classe JVM&#10;acontecantes de qualquer coisa antes mesmo do espaço alocado em memoria&#10;se tiver mais de um eles vao ser execuatdo de acordo com a ordem que aparece no codigo&#10;não pode acessar atributos de instancia dentro de metodos static&#10;pode ter bloco de inicialização junto com os blocos de inicialização static" />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto&#10;Blocos de Inicialização static:&#10; bloco do inicialização é carregado somente uma vez quando carrega pela classe JVM&#10;acontecantes de qualquer coisa antes mesmo do espaço alocado em memoria&#10;se tiver mais de um eles vao ser execuatdo de acordo com a ordem que aparece no codigo&#10;não pode acessar atributos de instancia dentro de metodos static&#10;pode ter bloco de inicialização junto com os blocos de inicialização static" />
+    <MESSAGE value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -589,6 +588,11 @@
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Dconstrutor/dominio/Anime.java</url>
           <line>17</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java</url>
