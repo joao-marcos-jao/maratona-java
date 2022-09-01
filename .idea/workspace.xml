@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos.">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação bidirecional">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,10 +128,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.LeituraDoTecladoTest01" />
+        <item itemvalue="Application.JogadorTest01" />
         <item itemvalue="Application.JogadorTest03" />
         <item itemvalue="Application.EscolaTest" />
         <item itemvalue="Application.JogadorTest02" />
-        <item itemvalue="Application.JogadorTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -145,13 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Aula05EstruturasCondicionais&#10;condição if">
-      <created>1660930555070</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1660930555070</updated>
     </task>
     <task id="LOCAL-00014" summary="Aula05EstruturasCondicionais upgrade&#10;adicionado o else">
       <created>1660931361390</created>
@@ -489,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661970449657</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação bidirecional">
+      <created>1662043860582</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1662043860582</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Orientação objeto &#10;referencia objteto" />
     <MESSAGE value="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros" />
     <MESSAGE value="orientação objeto metodo&#10;multiplicacao dois numeros" />
     <MESSAGE value="orientação objeto metodo&#10;retorno" />
@@ -529,7 +526,8 @@
     <MESSAGE value="Orientação Objeto&#10;Metodos static" />
     <MESSAGE value="Orientação Objeto&#10;Blocos de Inicialização static:&#10; bloco do inicialização é carregado somente uma vez quando carrega pela classe JVM&#10;acontecantes de qualquer coisa antes mesmo do espaço alocado em memoria&#10;se tiver mais de um eles vao ser execuatdo de acordo com a ordem que aparece no codigo&#10;não pode acessar atributos de instancia dentro de metodos static&#10;pode ter bloco de inicialização junto com os blocos de inicialização static" />
     <MESSAGE value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos." />
+    <MESSAGE value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação bidirecional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação bidirecional" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
