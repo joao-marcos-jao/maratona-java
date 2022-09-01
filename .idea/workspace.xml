@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos.">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Escola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EscolaTest">
+  <component name="RunManager" selected="Application.LeituraDoTecladoTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="carrosTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.carrosTest01" />
+    <configuration name="JogadorTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.JogadorTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.AnimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.AnimeTest01" />
+    <configuration name="LeituraDoTecladoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.LeituraDoTecladoTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeituraDoTecladoTest01" />
+        <item itemvalue="Application.JogadorTest03" />
         <item itemvalue="Application.EscolaTest" />
         <item itemvalue="Application.JogadorTest02" />
         <item itemvalue="Application.JogadorTest01" />
-        <item itemvalue="Application.cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.test.AnimeTest01" />
-        <item itemvalue="Application.carrosTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -145,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00012" summary="aula04 uprgarde&#10;operador de atribuição e contador">
-      <created>1660927849130</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1660927849130</updated>
     </task>
     <task id="LOCAL-00013" summary="Aula05EstruturasCondicionais&#10;condição if">
       <created>1660930555070</created>
@@ -489,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661958227792</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos.">
+      <created>1661970449656</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1661970449657</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
