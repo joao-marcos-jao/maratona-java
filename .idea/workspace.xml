@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.java" afterDir="false" />
@@ -145,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Aula06EstruturasDeRepeticao02&#10;contagem de numeros pares">
-      <created>1661181736022</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1661181736022</updated>
     </task>
     <task id="LOCAL-00019" summary="Aula06EstruturasDeRepeticao03&#10;contagegem e utilização do Break">
       <created>1661185451250</created>
@@ -489,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662142851350</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha">
+      <created>1662147398482</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1662147398482</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientação objeto metodo&#10;retorno utilizando diferente diferente (!=)" />
     <MESSAGE value="orientação objeto metodo&#10;retorno utilizando void" />
     <MESSAGE value="correção no nome das classes, orientação obetos  Referencia tipo primitvo" />
     <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel referencia" />
@@ -529,7 +528,8 @@
     <MESSAGE value="orientaçao obtejto &#10;execico leitura de dados do teclado" />
     <MESSAGE value="orientaçao obtejto &#10;execico Associação" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é" />
-    <option name="LAST_COMMIT_MESSAGE" value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é" />
+    <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
