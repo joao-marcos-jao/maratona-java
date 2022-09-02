@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto.&#10;Leitura de Dados pelo console">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/LeituraDotecladoTest02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;execico leitura de dados do teclado">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Local.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Seminario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/AssociacaoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +50,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LeituraDotecladoTest02">
+  <component name="RunManager" selected="Application.AssociacaoTest">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -60,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscolaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.EscolaTest" />
+    <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.AssociacaoTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AssociacaoTest" />
         <item itemvalue="Application.LeituraDotecladoTest02" />
         <item itemvalue="Application.LeituraDoTecladoTest01" />
         <item itemvalue="Application.JogadorTest01" />
         <item itemvalue="Application.JogadorTest03" />
-        <item itemvalue="Application.EscolaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,13 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Aula05EstruturasCondicionais upgrade&#10;adicionado o else">
-      <created>1660936149136</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1660936149136</updated>
     </task>
     <task id="LOCAL-00016" summary="Aula05EstruturasCondicionais04&#10;exercicio">
       <created>1660938396142</created>
@@ -487,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662045976973</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="orientaçao obtejto &#10;execico leitura de dados do teclado">
+      <created>1662050294913</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1662050294913</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientação objeto metodo&#10;multiplicacao dois numeros" />
     <MESSAGE value="orientação objeto metodo&#10;retorno" />
     <MESSAGE value="orientação objeto metodo&#10;retorno utilizando else" />
     <MESSAGE value="orientação objeto metodo&#10;retorno utilizando diferente diferente (!=)" />
@@ -527,7 +530,8 @@
     <MESSAGE value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos." />
     <MESSAGE value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação bidirecional" />
     <MESSAGE value="Orientação Objeto.&#10;Leitura de Dados pelo console" />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto.&#10;Leitura de Dados pelo console" />
+    <MESSAGE value="orientaçao obtejto &#10;execico leitura de dados do teclado" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientaçao obtejto &#10;execico leitura de dados do teclado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
