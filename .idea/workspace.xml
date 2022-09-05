@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto &#10;Classaes Abstratas. Classes podem ser abstratas e a funcionalidade classes abstratas é que elas podem ser extendidas , nao pode usar a palavara new nao pode criar um objeto com classes abstratas, nao pode misturar abstract e final porque tem funçoes opostaas final para nao ser extendidas e abstract para ser extendidas.">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação objeto&#10;Classes abstratas. clases abstratas podem ter metodos concretos e metodos abstratos, metodos abstratos  so podem ser executados dentro de classes abstratas nao podem ser executados dentro de classes concretas, metodos abstratos nao tem corpo.">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Pessoas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,13 +146,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00032" summary="orientação objeto metodo&#10;soma de dois numero &#10;subtração de dois numeros">
-      <created>1661285362591</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1661285362591</updated>
     </task>
     <task id="LOCAL-00033" summary="orientação objeto metodo&#10;multiplicacao dois numeros">
       <created>1661285978463</created>
@@ -490,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662413871283</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Orientação objeto&#10;Classes abstratas. clases abstratas podem ter metodos concretos e metodos abstratos, metodos abstratos  so podem ser executados dentro de classes abstratas nao podem ser executados dentro de classes concretas, metodos abstratos nao tem corpo.">
+      <created>1662415680405</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1662415680405</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +505,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="oientação objeto cargas e sobre cargas utilizando metodo init" />
     <MESSAGE value="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes" />
     <MESSAGE value="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor" />
     <MESSAGE value="Orientação objeto construtores. &#10;finalizado carga e sobrecargas de construtor&#10;iniciado blocos de inicialização" />
@@ -530,7 +529,8 @@
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos" />
     <MESSAGE value="Orientação Objeto &#10;Enumeração Busca por atributos" />
     <MESSAGE value="Orientação Objeto &#10;Classaes Abstratas. Classes podem ser abstratas e a funcionalidade classes abstratas é que elas podem ser extendidas , nao pode usar a palavara new nao pode criar um objeto com classes abstratas, nao pode misturar abstract e final porque tem funçoes opostaas final para nao ser extendidas e abstract para ser extendidas." />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto &#10;Classaes Abstratas. Classes podem ser abstratas e a funcionalidade classes abstratas é que elas podem ser extendidas , nao pode usar a palavara new nao pode criar um objeto com classes abstratas, nao pode misturar abstract e final porque tem funçoes opostaas final para nao ser extendidas e abstract para ser extendidas." />
+    <MESSAGE value="Orientação objeto&#10;Classes abstratas. clases abstratas podem ter metodos concretos e metodos abstratos, metodos abstratos  so podem ser executados dentro de classes abstratas nao podem ser executados dentro de classes concretas, metodos abstratos nao tem corpo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Orientação objeto&#10;Classes abstratas. clases abstratas podem ter metodos concretos e metodos abstratos, metodos abstratos  so podem ser executados dentro de classes abstratas nao podem ser executados dentro de classes concretas, metodos abstratos nao tem corpo." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
