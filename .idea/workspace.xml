@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto &#10;é possivel  ter enumeração usando atributos e construtores">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/TipoCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/TipoCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/test/ClienteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/test/ClienteTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00029" summary="orientação ao objteo, introdução as classses, variavei e objetos&#10;utilizando de maneira correta dois ou mais objetos com boas praticas">
-      <created>1661280642448</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1661280642448</updated>
     </task>
     <task id="LOCAL-00030" summary="Orientação objeto &#10;exercicos classes">
       <created>1661282945801</created>
@@ -491,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662404578791</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos">
+      <created>1662406783320</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1662406783320</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit" />
     <MESSAGE value="oientação objeto modificadores de acesso, private e get virado no jeraya" />
     <MESSAGE value="oientação objeto modificadores de acesso, private e get gerados pela IDE" />
     <MESSAGE value="oientação objeto cargas e sobre cargas utilizando metodo init" />
@@ -531,7 +528,8 @@
     <MESSAGE value="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto" />
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração dentro da classe" />
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração usando atributos e construtores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto &#10;é possivel  ter enumeração usando atributos e construtores" />
+    <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
