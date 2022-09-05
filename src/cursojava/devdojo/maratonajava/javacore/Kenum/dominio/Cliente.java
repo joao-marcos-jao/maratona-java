@@ -3,9 +3,7 @@ package cursojava.devdojo.maratonajava.javacore.Kenum.dominio;
 import cursojava.devdojo.maratonajava.javacore.Jmodificadorfinal.dominio.TipoCliente;
 
 public class Cliente {
-    public enum TipoPagamento{
-        DEBITO, CREDITO
-    }
+
     String nome;
     TipoCliente tipoCliente;
     TipoPagamento tipoPagamento;
@@ -20,9 +18,11 @@ public class Cliente {
     public String toString() {
         return "Cliente{" +
                 "nome='" + nome + '\'' +
-                ", tipoClienteint=" + tipoCliente.VALOR +
+                ", tipoCliente=" + tipoCliente +
                 ", tipoPagamento=" + tipoPagamento +
                 '}';
     }
 }
+
+
 
