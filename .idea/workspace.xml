@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;Modificador Final referencia">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/TipoCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/test/ClienteTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/test/ClienteTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Kenum/test/ClienteTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Aula08ArraysMultidimensionais01&#10;usando forreach">
-      <created>1661211702619</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1661211702619</updated>
     </task>
     <task id="LOCAL-00027" summary="Aula08ArraysMultidimensionais02&#10;foreach inicialição">
       <created>1661214124729</created>
@@ -493,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662397014770</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto">
+      <created>1662402630710</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1662402630710</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -508,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays" />
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs" />
     <MESSAGE value="oientação objeto&#10;exercios" />
     <MESSAGE value="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit" />
@@ -533,7 +528,8 @@
     <MESSAGE value="orientaçao obtejto &#10;Sobreescrita iniciando parte 1" />
     <MESSAGE value="orientaçao obtejto &#10;Modificador Final parte 1" />
     <MESSAGE value="orientaçao obtejto &#10;Modificador Final referencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="orientaçao obtejto &#10;Modificador Final referencia" />
+    <MESSAGE value="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
