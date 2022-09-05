@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HerancaTest01">
+  <component name="RunManager" selected="Application.HerancaTest02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JogadorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.JogadorTest01" />
+    <configuration name="HerancaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Hheranca.test.HerancaTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Gassociacao.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Hheranca.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HerancaTest02" />
         <item itemvalue="Application.HerancaTest01" />
         <item itemvalue="Application.AssociacaoTest" />
         <item itemvalue="Application.LeituraDotecladoTest02" />
         <item itemvalue="Application.LeituraDoTecladoTest01" />
-        <item itemvalue="Application.JogadorTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -145,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Aula06EstruturasDeRepeticao03&#10;contagegem e utilização do Break">
-      <created>1661185451250</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1661185451250</updated>
     </task>
     <task id="LOCAL-00020" summary="Aula06EstruturasDeRepeticao04&#10;exercico break quando parar">
       <created>1661186872316</created>
@@ -489,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662147398482</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha">
+      <created>1662147415308</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1662147415308</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
