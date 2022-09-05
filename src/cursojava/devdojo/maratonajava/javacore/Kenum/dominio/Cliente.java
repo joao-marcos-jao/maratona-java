@@ -20,7 +20,7 @@ public class Cliente {
     public String toString() {
         return "Cliente{" +
                 "nome='" + nome + '\'' +
-                ", tipoCliente=" + tipoCliente +
+                ", tipoClienteint=" + tipoCliente.VALOR +
                 ", tipoPagamento=" + tipoPagamento +
                 '}';
     }
