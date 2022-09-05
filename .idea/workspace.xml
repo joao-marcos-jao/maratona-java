@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;Sobreescrita iniciando parte 1">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="orientaçao obtejto &#10;Modificador Final parte 1">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Comprador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Isobreescrita/dominio/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Isobreescrita/dominio/Anime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,13 +145,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Aula07Arrays02">
-      <created>1661204201865</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1661204201865</updated>
     </task>
     <task id="LOCAL-00025" summary="Aula08ArraysMultidimensionais01&#10;usando for">
       <created>1661211201033</created>
@@ -489,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662391944924</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="orientaçao obtejto &#10;Modificador Final parte 1">
+      <created>1662394536631</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1662394536631</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel referencia" />
     <MESSAGE value="oientação objeto&#10;metododos paramentro tipo variavel utilizando this dentro do meu objteo" />
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays" />
     <MESSAGE value="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs" />
@@ -529,7 +528,8 @@
     <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: // 0 - Bloco de Inicialização estático da super classe é executada quando a JVM carregar a classe pai &#10;         // 1 - Bloco de inicialização estático da subclasse é executado quando a JVMcarregar a classe filha&#10;         // 2 - Cada atributo de classe é criado e inicializado com valores default ou que for passado da classe pai&#10;         // 3 - Alocado Espaço em memoria pro obeto da superclasse &#10;         // 4 -  Bloco de Inicialização da superclasse é executado na ordem que aparece &#10;         // 5 -  Construtor é executado da superclasseclasse &#10;         // 6 - Alocado espaço em memória pro objeto da subclasse&#10;         // 7 - Cada atributo de Subclasse é criado e inicializado com valores default ou quer for passado &#10;         // 8 - Bloco de Inicialização da subclasse é executado  na ordem que aparece &#10;         // 9 - Construtor é executado da subclasse" />
     <MESSAGE value="orientaçao obtejto &#10;Sobreescrita iniciando parte 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="orientaçao obtejto &#10;Sobreescrita iniciando parte 1" />
+    <MESSAGE value="orientaçao obtejto &#10;Modificador Final parte 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="orientaçao obtejto &#10;Modificador Final parte 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
