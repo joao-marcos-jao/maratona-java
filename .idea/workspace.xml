@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : paramentro polimorficos">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest03.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/repositorio/Repositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioBancoDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/test/RepositorioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProdutoTest03">
+  <component name="RunManager" selected="Application.RepositorioTest">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -70,19 +73,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Minstefaces.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FuncionarioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Lclassesabstratas.test.FuncionarioTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Lclassesabstratas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepositorioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Npolimorfismo.test.RepositorioTest" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepositorioTest" />
         <item itemvalue="Application.ProdutoTest03" />
         <item itemvalue="Application.ProdutoTest01" />
         <item itemvalue="Application.ProdutoTest02" />
         <item itemvalue="Application.DataLoaderTest01" />
-        <item itemvalue="Application.FuncionarioTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -147,13 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00040" summary="oientação objeto&#10;metododos paramentro tipo variavel referencia">
-      <created>1661365752273</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1661365752273</updated>
     </task>
     <task id="LOCAL-00041" summary="oientação objeto&#10;metododos paramentro tipo variavel referencia">
       <created>1661365768454</created>
@@ -491,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662488733122</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof">
+      <created>1662491543485</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1662491543485</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos." />
     <MESSAGE value="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação bidirecional" />
     <MESSAGE value="Orientação Objeto.&#10;Leitura de Dados pelo console" />
     <MESSAGE value="orientaçao obtejto &#10;execico leitura de dados do teclado" />
@@ -561,7 +563,8 @@
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO" />
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : Quer dizer multi formas" />
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : paramentro polimorficos" />
-    <option name="LAST_COMMIT_MESSAGE" value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : paramentro polimorficos" />
+    <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof" />
+    <option name="LAST_COMMIT_MESSAGE" value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -625,11 +628,6 @@
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest.java</url>
           <line>9</line>
           <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java</url>
