@@ -15,4 +15,7 @@ public class FileLoader implements DataLoader, DataRemover{
     public void checkPermission() {
         System.out.println("Checando Permissoes no arquivo");
     }
+    public static void retiveMaxDataSize(){
+        System.out.println("Dentro do retiveMaxDataSixe da interface");
+    }
 }
