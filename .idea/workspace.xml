@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="execeção Erro é algo que acontece na JVM que provalvelmete que vc nao provalvelmete nao vai poder recuperar em execução  tem que resolver  e depois executar novamente">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptioTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RumtimeExceptionTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExeceptionTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeTest03.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="exeçao parte finally">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/test/StackOverflowTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/erro/test/StackOverflowTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RuntimeTest03">
+  <component name="RunManager" selected="Application.RuntimeTest04">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -81,19 +76,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepositorioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Npolimorfismo.test.RepositorioTest" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RuntimeTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeTest04" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackOverflowTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.erro.test.StackOverflowTest01" />
       <module name="maratona-java" />
@@ -142,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeTest04" />
         <item itemvalue="Application.RuntimeTest03" />
         <item itemvalue="Application.RumtimeExceptionTest02" />
         <item itemvalue="Application.ExceptioTest01" />
         <item itemvalue="Application.StackOverflowTest01" />
-        <item itemvalue="Application.RepositorioTest" />
       </list>
     </recent_temporary>
   </component>
@@ -158,13 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00043" summary="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando arrays">
-      <created>1661371267777</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1661371267777</updated>
     </task>
     <task id="LOCAL-00044" summary="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs">
       <created>1661373160745</created>
@@ -502,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662494874295</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="exeçao parte finally">
+      <created>1662673264791</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1662673264792</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientaçao obtejto &#10;execico leitura de dados do teclado" />
     <MESSAGE value="orientaçao obtejto &#10;execico Associação" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha" />
@@ -572,7 +566,8 @@
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof" />
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : Progamação Orientada a interface" />
     <MESSAGE value="execeção Erro é algo que acontece na JVM que provalvelmete que vc nao provalvelmete nao vai poder recuperar em execução  tem que resolver  e depois executar novamente" />
-    <option name="LAST_COMMIT_MESSAGE" value="execeção Erro é algo que acontece na JVM que provalvelmete que vc nao provalvelmete nao vai poder recuperar em execução  tem que resolver  e depois executar novamente" />
+    <MESSAGE value="exeçao parte finally" />
+    <option name="LAST_COMMIT_MESSAGE" value="exeçao parte finally" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
