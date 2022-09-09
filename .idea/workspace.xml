@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="exeçao parte finally">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeTest04.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Capturando multipls exceções">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeTest04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,13 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00044" summary="oientação objeto&#10;metododos passa gem de paramentro tipo &#10;utilizando VarArgs">
-      <created>1661373160745</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1661373160745</updated>
     </task>
     <task id="LOCAL-00045" summary="oientação objeto&#10;exercios">
       <created>1661377727174</created>
@@ -497,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662673264792</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Capturando multipls exceções">
+      <created>1662679282983</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1662679282983</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientaçao obtejto &#10;execico Associação" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: // 0 - Bloco de Inicialização estático da super classe é executada quando a JVM carregar a classe pai &#10;         // 1 - Bloco de inicialização estático da subclasse é executado quando a JVMcarregar a classe filha&#10;         // 2 - Cada atributo de classe é criado e inicializado com valores default ou que for passado da classe pai&#10;         // 3 - Alocado Espaço em memoria pro obeto da superclasse &#10;         // 4 -  Bloco de Inicialização da superclasse é executado na ordem que aparece &#10;         // 5 -  Construtor é executado da superclasseclasse &#10;         // 6 - Alocado espaço em memória pro objeto da subclasse&#10;         // 7 - Cada atributo de Subclasse é criado e inicializado com valores default ou quer for passado &#10;         // 8 - Bloco de Inicialização da subclasse é executado  na ordem que aparece &#10;         // 9 - Construtor é executado da subclasse" />
@@ -567,7 +566,8 @@
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : Progamação Orientada a interface" />
     <MESSAGE value="execeção Erro é algo que acontece na JVM que provalvelmete que vc nao provalvelmete nao vai poder recuperar em execução  tem que resolver  e depois executar novamente" />
     <MESSAGE value="exeçao parte finally" />
-    <option name="LAST_COMMIT_MESSAGE" value="exeçao parte finally" />
+    <MESSAGE value="Capturando multipls exceções" />
+    <option name="LAST_COMMIT_MESSAGE" value="Capturando multipls exceções" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
