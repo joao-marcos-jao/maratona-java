@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Multi cath em linha">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeTest04.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Multi cath em linha" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,34 +150,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00046" summary="oientação objeto modificadores de acesso, ate entao estamos usando o publico mas tambem existe o privado que iremos utilizar no proximo commit">
-      <created>1661378646628</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1661378646628</updated>
-    </task>
-    <task id="LOCAL-00047" summary="oientação objeto modificadores de acesso, private e get virado no jeraya">
-      <created>1661385077872</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1661385077872</updated>
-    </task>
-    <task id="LOCAL-00048" summary="oientação objeto modificadores de acesso, private e get gerados pela IDE">
-      <created>1661387179056</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1661387179056</updated>
-    </task>
-    <task id="LOCAL-00049" summary="oientação objeto cargas e sobre cargas utilizando metodo init">
-      <created>1661460449224</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1661460449224</updated>
     </task>
     <task id="LOCAL-00050" summary="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes">
       <created>1661528905737</created>
@@ -497,7 +466,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662683148762</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Multi cath em linha">
+      <created>1662683167091</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1662683167091</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Multi cath em linha">
+      <created>1662683182636</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1662683182636</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Multi cath em linha">
+      <created>1662683187959</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1662683187959</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Multi cath em linha">
+      <created>1662683198001</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1662683198001</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

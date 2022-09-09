@@ -10,16 +10,14 @@ public class RuntimeTest04 {
             throw new RuntimeException();
         }catch (ArrayIndexOutOfBoundsException | IllegalArgumentException | ArithmeticException e){
             System.out.println("Dentro do ArrayIndexOutOfBoundsException | IllegalArgumentException | ArithmeticException");
-        } catch (IndexOutOfBoundsException e){
-            System.out.println("Dentro do IndexOutOfBoundsException");
-
-        }catch (RuntimeException e){
+        } catch (RuntimeException e){
             System.out.println("Dentro do RuntimeException");
         }
 
         try {
             talvezLanceException();
-        } catch (Exception  e) {
+        } catch (IOException | SQLException  e) {
+            e.printStackTrace();
 
         }
     }
