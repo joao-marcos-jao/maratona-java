@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Multi cath em linha">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResorcesTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="inicio aula Try Witch Resouces">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResorcesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResorcesTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RuntimeTest04">
+  <component name="RunManager" selected="Application.TryWithResorcesTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -123,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackOverflowTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.erro.test.StackOverflowTest01" />
+    <configuration name="TryWithResorcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.exception.test.TryWithResorcesTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Oexception.erro.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryWithResorcesTest01" />
         <item itemvalue="Application.RuntimeTest04" />
         <item itemvalue="Application.RuntimeTest03" />
         <item itemvalue="Application.RumtimeExceptionTest02" />
         <item itemvalue="Application.ExceptioTest01" />
-        <item itemvalue="Application.StackOverflowTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -154,13 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00051" summary="oientação objeto cargas e sobre cargas utilizando metodo init&#10;finalizando sobrecargas de metodos&#10;o que é sobrecargas de métodos?&#10;é ter metódo com o mesmo o tipo ou quantidade do paramentros sao diferentes">
-      <created>1661529361008</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1661529361008</updated>
     </task>
     <task id="LOCAL-00052" summary="Orientação objeto construtores. &#10;oda vez que vc esta criando um objeto vc esta construindo objeto&#10;mesmo vc nao vendo o contruto ele esta presente, ele é tipo Deus&#10;precisa do contsruto para dar origem ao objeto&#10; vantagem de ter  o contrutores é que ele te forçam a seguir algumas regras&#10; o construtor é  executade antes de qualquer metódo que vocêtem na sua classe&#10; voĉ tambem pode fazer sobre cargas de construtor">
       <created>1661531704861</created>
@@ -498,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662683766860</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="inicio aula Try Witch Resouces">
+      <created>1662739533413</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1662739533413</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,7 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha" />
     <MESSAGE value="orientaçao obtejto &#10;Herança: // 0 - Bloco de Inicialização estático da super classe é executada quando a JVM carregar a classe pai &#10;         // 1 - Bloco de inicialização estático da subclasse é executado quando a JVMcarregar a classe filha&#10;         // 2 - Cada atributo de classe é criado e inicializado com valores default ou que for passado da classe pai&#10;         // 3 - Alocado Espaço em memoria pro obeto da superclasse &#10;         // 4 -  Bloco de Inicialização da superclasse é executado na ordem que aparece &#10;         // 5 -  Construtor é executado da superclasseclasse &#10;         // 6 - Alocado espaço em memória pro objeto da subclasse&#10;         // 7 - Cada atributo de Subclasse é criado e inicializado com valores default ou quer for passado &#10;         // 8 - Bloco de Inicialização da subclasse é executado  na ordem que aparece &#10;         // 9 - Construtor é executado da subclasse" />
     <MESSAGE value="orientaçao obtejto &#10;Sobreescrita iniciando parte 1" />
     <MESSAGE value="orientaçao obtejto &#10;Modificador Final parte 1" />
@@ -568,7 +569,8 @@
     <MESSAGE value="exeçao parte finally" />
     <MESSAGE value="Capturando multipls exceções" />
     <MESSAGE value="Multi cath em linha" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multi cath em linha" />
+    <MESSAGE value="inicio aula Try Witch Resouces" />
+    <option name="LAST_COMMIT_MESSAGE" value="inicio aula Try Witch Resouces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
