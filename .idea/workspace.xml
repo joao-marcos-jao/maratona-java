@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Exceção customizada">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/dominio/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/dominio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/SobreEscritaComExceptioTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="finalizado execption">
       <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Pwrapper/test/WrapperTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arquivo||teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/SobreEscritaComExceptioTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Oexception/exception/test/SobreEscritaComExceptioTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeTest03" />
+    <configuration name="RuntimeTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeTest04" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeTest04" />
+    <configuration name="SobreEscritaComExceptioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.exception.test.SobreEscritaComExceptioTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,10 +141,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.WrapperTest01" />
+        <item itemvalue="Application.SobreEscritaComExceptioTest01" />
         <item itemvalue="Application.LoginIvalidoExceptionTest01" />
         <item itemvalue="Application.TryWithResorcesTest01" />
         <item itemvalue="Application.RuntimeTest04" />
-        <item itemvalue="Application.RuntimeTest03" />
       </list>
     </recent_temporary>
   </component>
@@ -157,13 +156,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Orientação objeto construtores. &#10;finalizado carga e sobrecargas de construtor&#10;iniciado blocos de inicialização">
-      <created>1661545292142</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1661545292142</updated>
     </task>
     <task id="LOCAL-00055" summary="Orientação objeto Bloco de Inicialização&#10;ele é executado antes dos construtore">
       <created>1661549803446</created>
@@ -501,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662743524162</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="finalizado execption">
+      <created>1663021726653</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1663021726654</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +545,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientaçao obtejto &#10;Modificador Final parte 1" />
     <MESSAGE value="orientaçao obtejto &#10;Modificador Final referencia" />
     <MESSAGE value="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto" />
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração dentro da classe" />
@@ -571,7 +569,8 @@
     <MESSAGE value="inicio aula Try Witch Resouces" />
     <MESSAGE value="inicio aula Try Witch Resouces parte 2" />
     <MESSAGE value="Exceção customizada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceção customizada" />
+    <MESSAGE value="finalizado execption" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizado execption" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
