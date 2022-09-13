@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="classes utilitarias wrappers">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Qstring/test/StrigTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Qstring/test/StringTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Qstring/test/StringPerformanceTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +57,13 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StrigTest02">
+  <component name="RunManager" selected="Application.StringPerformanceTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginIvalidoExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Oexception.exception.test.LoginIvalidoExceptionTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +86,19 @@
     </configuration>
     <configuration name="StrigTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Qstring.test.StrigTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Qstring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPerformanceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Qstring.test.StringPerformanceTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringPerformanceTest01" />
         <item itemvalue="Application.StrigTest02" />
         <item itemvalue="Application.StringTest01" />
         <item itemvalue="Application.WrapperTest01" />
         <item itemvalue="Application.SobreEscritaComExceptioTest01" />
-        <item itemvalue="Application.LoginIvalidoExceptionTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -155,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Orientação objeto &#10;Modificador static: modificador static depois do modificador de acesso conforme as boas praticas de progamação&#10;                    pelo fato do modificador de aceso statico utilizar na variavel, a mesma deixa de pertencer ao objeto em si, passa pertencer a classe   qualque modificação a um dos objetos modifica todos objeto pois nao pertece mais a uma unica instancia&#10;                    o modificado static vai fazer o atributo a pertecer a classe e todos objetos vao compartiçhar o mesmo valor">
-      <created>1661880507983</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1661880507984</updated>
     </task>
     <task id="LOCAL-00057" summary="Orientação Objeto&#10;Metodos static">
       <created>1661881994449</created>
@@ -499,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663023512634</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter">
+      <created>1663028185213</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1663028185213</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto" />
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração dentro da classe" />
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração usando atributos e construtores" />
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos" />
@@ -569,7 +567,8 @@
     <MESSAGE value="Exceção customizada" />
     <MESSAGE value="finalizado execption" />
     <MESSAGE value="classes utilitarias wrappers" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes utilitarias wrappers" />
+    <MESSAGE value="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
