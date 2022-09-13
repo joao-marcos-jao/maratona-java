@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitarias String Desempenho">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Qstring/test/StringBuilderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Rdates/test/DatesTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="dates">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Rdates/test/CalendarTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,13 +57,26 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DatesTest01">
+  <component name="RunManager" selected="Application.CalendarTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.CalendarTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Qstring.test.StringTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Qstring.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalendarTest01" />
         <item itemvalue="Application.DatesTest01" />
         <item itemvalue="Application.StringBuilderTest01" />
         <item itemvalue="Application.StringPerformanceTest01" />
         <item itemvalue="Application.StrigTest02" />
-        <item itemvalue="Application.StringTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -155,13 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Orientação Objeto&#10;Metodos static">
-      <created>1661882675601</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1661882675601</updated>
     </task>
     <task id="LOCAL-00059" summary="Orientação Objeto&#10;Blocos de Inicialização static:&#10; bloco do inicialização é carregado somente uma vez quando carrega pela classe JVM&#10;acontecantes de qualquer coisa antes mesmo do espaço alocado em memoria&#10;se tiver mais de um eles vao ser execuatdo de acordo com a ordem que aparece no codigo&#10;não pode acessar atributos de instancia dentro de metodos static&#10;pode ter bloco de inicialização junto com os blocos de inicialização static">
       <created>1661884599734</created>
@@ -499,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663081486662</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="dates">
+      <created>1663086137760</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1663086137760</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração usando atributos e construtores" />
     <MESSAGE value="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos" />
     <MESSAGE value="Orientação Objeto &#10;Enumeração Busca por atributos" />
     <MESSAGE value="Orientação Objeto &#10;Classaes Abstratas. Classes podem ser abstratas e a funcionalidade classes abstratas é que elas podem ser extendidas , nao pode usar a palavara new nao pode criar um objeto com classes abstratas, nao pode misturar abstract e final porque tem funçoes opostaas final para nao ser extendidas e abstract para ser extendidas." />
@@ -569,7 +567,8 @@
     <MESSAGE value="classes utilitarias wrappers" />
     <MESSAGE value="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter" />
     <MESSAGE value="Classes Utilitarias String Desempenho" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitarias String Desempenho" />
+    <MESSAGE value="dates" />
+    <option name="LAST_COMMIT_MESSAGE" value="dates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
