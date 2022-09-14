@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="classes utilitarias Calendar">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test/DateFormatTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test/LocaleTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test/LocaleTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test/NumberTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Formatação local e idioma">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test/NumberTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test/NumberTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocaleTest02">
+  <component name="RunManager" selected="Application.NumberTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -103,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DatesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.DatesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LocaleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.LocaleTest01" />
       <module name="maratona-java" />
@@ -142,13 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Sformatação.test.NumberTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Sformatação.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberTest01" />
         <item itemvalue="Application.LocaleTest02" />
         <item itemvalue="Application.LocaleTest01" />
         <item itemvalue="Application.DateFormatTest01" />
         <item itemvalue="Application.CalendarTest01" />
-        <item itemvalue="Application.DatesTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos.">
-      <created>1661958227791</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1661958227792</updated>
     </task>
     <task id="LOCAL-00061" summary="Orientação Objeto.&#10;Associação com Arrays&#10;asssociação unidirecional um para muitos.">
       <created>1661970449656</created>
@@ -504,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663094464462</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Classes Utilitaria Formatação local e idioma">
+      <created>1663171881802</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1663171881803</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -549,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Orientação Objeto &#10;Enumeração Busca por atributos" />
     <MESSAGE value="Orientação Objeto &#10;Classaes Abstratas. Classes podem ser abstratas e a funcionalidade classes abstratas é que elas podem ser extendidas , nao pode usar a palavara new nao pode criar um objeto com classes abstratas, nao pode misturar abstract e final porque tem funçoes opostaas final para nao ser extendidas e abstract para ser extendidas." />
     <MESSAGE value="Orientação objeto&#10;Classes abstratas. clases abstratas podem ter metodos concretos e metodos abstratos, metodos abstratos  so podem ser executados dentro de classes abstratas nao podem ser executados dentro de classes concretas, metodos abstratos nao tem corpo." />
     <MESSAGE value="Orientação ao objeto.&#10;Classes abstratas. vc nao pode ter multiplas heraça no java mais você pode avô tataravô etc" />
@@ -574,7 +570,8 @@
     <MESSAGE value="Classes Utilitarias String Desempenho" />
     <MESSAGE value="dates" />
     <MESSAGE value="classes utilitarias Calendar" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes utilitarias Calendar" />
+    <MESSAGE value="Classes Utilitaria Formatação local e idioma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Formatação local e idioma" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
