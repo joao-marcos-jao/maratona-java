@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Tempora Adjusters">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Rdates/test/TemporalAdjustersTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Rdates/test/ZoneTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test/DateTimeFormatterTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Date Time Formatter">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Tresourcebundle/test/ResourceBundletest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Uregex/teste/PartternMatcherTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/menssages_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/menssages_pt_BR.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateTimeFormatterTest01">
+  <component name="RunManager" selected="Application.PartternMatcherTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemporalAdjustersTest02 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.TemporalAdjustersTest02" />
+    <configuration name="PartternMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.PartternMatcherTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemporalAdjustersTest02 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.TemporalAdjustersTest02" />
+    <configuration name="ResourceBundletest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Tresourcebundle.test.ResourceBundletest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Tresourcebundle.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PartternMatcherTest01" />
+        <item itemvalue="Application.ResourceBundletest01" />
         <item itemvalue="Application.DateTimeFormatterTest01" />
         <item itemvalue="Application.ZoneTest01" />
         <item itemvalue="Application.TemporalAdjustersTest02" />
-        <item itemvalue="Application.TemporalAdjustersTest02 (4)" />
-        <item itemvalue="Application.TemporalAdjustersTest02 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -160,13 +161,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00068" summary="orientaçao obtejto &#10;Herança: ate agora estavamos utilizando o termo em na herança agora o termo é&#10;todave que altera o contruto na classe mae vc precisar alterar visualmente na classe filha">
-      <created>1662147415308</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1662147415308</updated>
     </task>
     <task id="LOCAL-00069" summary="orientaçao obtejto &#10;Herança: // 0 - Bloco de Inicialização estático da super classe é executada quando a JVM carregar a classe pai &#10;         // 1 - Bloco de inicialização estático da subclasse é executado quando a JVMcarregar a classe filha&#10;         // 2 - Cada atributo de classe é criado e inicializado com valores default ou que for passado da classe pai&#10;         // 3 - Alocado Espaço em memoria pro obeto da superclasse &#10;         // 4 -  Bloco de Inicialização da superclasse é executado na ordem que aparece &#10;         // 5 -  Construtor é executado da superclasseclasse &#10;         // 6 - Alocado espaço em memória pro objeto da subclasse&#10;         // 7 - Cada atributo de Subclasse é criado e inicializado com valores default ou quer for passado &#10;         // 8 - Bloco de Inicialização da subclasse é executado  na ordem que aparece &#10;         // 9 - Construtor é executado da subclasse">
       <created>1662389306870</created>
@@ -504,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663345708558</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Classes Utilitaria Date Time Formatter">
+      <created>1663359666848</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1663359666848</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -549,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : Quer dizer multi formas" />
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : paramentro polimorficos" />
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof" />
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : Progamação Orientada a interface" />
@@ -574,7 +574,8 @@
     <MESSAGE value="Classes Utilitaria Duration" />
     <MESSAGE value="Classes Utilitaria Period" />
     <MESSAGE value="Classes Utilitaria Tempora Adjusters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Tempora Adjusters" />
+    <MESSAGE value="Classes Utilitaria Date Time Formatter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Date Time Formatter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
