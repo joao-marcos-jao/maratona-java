@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Regex Pattern Matcher - Range">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Uregex/teste/PartternMatcherTest04.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Regex Pattern Matcher - Quantificadores">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Uregex/teste/PartternMatcherTest05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PartternMatcherTest04">
+  <component name="RunManager" selected="Application.PartternMatcherTest05">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResourceBundletest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Tresourcebundle.test.ResourceBundletest01" />
+    <configuration name="PartternMatcherTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.PartternMatcherTest05" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Tresourcebundle.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PartternMatcherTest05" />
         <item itemvalue="Application.PartternMatcherTest04" />
         <item itemvalue="Application.PartternMatcherTest03" />
         <item itemvalue="Application.PartternMatcherTest02" />
         <item itemvalue="Application.PartternMatcherTest01" />
-        <item itemvalue="Application.ResourceBundletest01" />
       </list>
     </recent_temporary>
   </component>
@@ -159,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00072" summary="orientaçao obtejto &#10;Sobreescrita iniciando parte 1">
-      <created>1662391944923</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1662391944924</updated>
     </task>
     <task id="LOCAL-00073" summary="orientaçao obtejto &#10;Modificador Final parte 1">
       <created>1662394536631</created>
@@ -503,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663515125418</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Classes Utilitaria Regex Pattern Matcher - Quantificadores">
+      <created>1663516525004</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1663516525004</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="execeção Erro é algo que acontece na JVM que provalvelmete que vc nao provalvelmete nao vai poder recuperar em execução  tem que resolver  e depois executar novamente" />
     <MESSAGE value="exeçao parte finally" />
     <MESSAGE value="Capturando multipls exceções" />
     <MESSAGE value="Multi cath em linha" />
@@ -573,7 +572,8 @@
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Meta caractes" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Range" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Regex Pattern Matcher - Range" />
+    <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Quantificadores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Regex Pattern Matcher - Quantificadores" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
