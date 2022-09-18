@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Regex Pattern Matcher">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Uregex/teste/PartternMatcherTest02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Regex Pattern Matcher - Meta caractes">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Uregex/teste/PartternMatcherTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PartternMatcherTest02">
+  <component name="RunManager" selected="Application.PartternMatcherTest03">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -115,6 +115,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PartternMatcherTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.PartternMatcherTest03" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ResourceBundletest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Tresourcebundle.test.ResourceBundletest01" />
       <module name="maratona-java" />
@@ -128,26 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZoneTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.ZoneTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Rdates.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PartternMatcherTest03" />
         <item itemvalue="Application.PartternMatcherTest02" />
         <item itemvalue="Application.PartternMatcherTest01" />
         <item itemvalue="Application.ResourceBundletest01" />
         <item itemvalue="Application.DateTimeFormatterTest01" />
-        <item itemvalue="Application.ZoneTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -159,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00070" summary="orientaçao obtejto &#10;Herança: // 0 - Bloco de Inicialização estático da super classe é executada quando a JVM carregar a classe pai &#10;         // 1 - Bloco de inicialização estático da subclasse é executado quando a JVMcarregar a classe filha&#10;         // 2 - Cada atributo de classe é criado e inicializado com valores default ou que for passado da classe pai&#10;         // 3 - Alocado Espaço em memoria pro obeto da superclasse &#10;         // 4 -  Bloco de Inicialização da superclasse é executado na ordem que aparece &#10;         // 5 -  Construtor é executado da superclasseclasse &#10;         // 6 - Alocado espaço em memória pro objeto da subclasse&#10;         // 7 - Cada atributo de Subclasse é criado e inicializado com valores default ou quer for passado &#10;         // 8 - Bloco de Inicialização da subclasse é executado  na ordem que aparece &#10;         // 9 - Construtor é executado da subclasse">
-      <created>1662389328737</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1662389328737</updated>
     </task>
     <task id="LOCAL-00071" summary="orientaçao obtejto &#10;Sobreescrita iniciando parte 1">
       <created>1662391932993</created>
@@ -503,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663511718080</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Classes Utilitaria Regex Pattern Matcher - Meta caractes">
+      <created>1663513385175</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1663513385175</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof" />
     <MESSAGE value="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : Progamação Orientada a interface" />
     <MESSAGE value="execeção Erro é algo que acontece na JVM que provalvelmete que vc nao provalvelmete nao vai poder recuperar em execução  tem que resolver  e depois executar novamente" />
     <MESSAGE value="exeçao parte finally" />
@@ -573,7 +572,8 @@
     <MESSAGE value="Classes Utilitaria Tempora Adjusters" />
     <MESSAGE value="Classes Utilitaria Date Time Formatter" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Regex Pattern Matcher" />
+    <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Meta caractes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Regex Pattern Matcher - Meta caractes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
