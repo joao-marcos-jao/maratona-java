@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria IO file writer">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria IO file Reader">
       <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/File/FileReaderTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -159,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Orientação Objeto &#10;é possivel  ter enumeração usando atributos e construtores">
-      <created>1662404578791</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1662404578791</updated>
     </task>
     <task id="LOCAL-00078" summary="Orientação Objeto &#10;é possivel  ter enumeração sobreescrever metodos">
       <created>1662406783320</created>
@@ -503,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663599691107</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Classes Utilitaria IO file Reader">
+      <created>1663601209271</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1663601209271</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Multi cath em linha" />
     <MESSAGE value="inicio aula Try Witch Resouces" />
     <MESSAGE value="inicio aula Try Witch Resouces parte 2" />
     <MESSAGE value="Exceção customizada" />
@@ -573,7 +572,8 @@
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Quantificadores" />
     <MESSAGE value="Classes Utilitaria IO file" />
     <MESSAGE value="Classes Utilitaria IO file writer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria IO file writer" />
+    <MESSAGE value="Classes Utilitaria IO file Reader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria IO file Reader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
