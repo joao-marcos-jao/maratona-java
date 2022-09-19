@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria Regex Pattern Matcher - Quantificadores">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/File/FileTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria IO file">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/File/FileWriterTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileTest01">
+  <component name="RunManager" selected="Application.FileWriterTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartternMatcherTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.PartternMatcherTest04" />
+    <configuration name="FileWriterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Vio.test.File.FileWriterTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Uregex.teste.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Vio.test.File.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileWriterTest01" />
         <item itemvalue="Application.FileTest01" />
         <item itemvalue="Application.ScannerTest02" />
         <item itemvalue="Application.ScannerTest01" />
         <item itemvalue="Application.PartternMatcherTest05" />
-        <item itemvalue="Application.PartternMatcherTest04" />
       </list>
     </recent_temporary>
   </component>
@@ -159,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00075" summary="orientaçao obtejto &#10;Modificador finalizando modificador iniciando enumeração objeto">
-      <created>1662402630710</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1662402630710</updated>
     </task>
     <task id="LOCAL-00076" summary="Orientação Objeto &#10;é possivel  ter enumeração dentro da classe">
       <created>1662403394999</created>
@@ -503,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663526671162</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Classes Utilitaria IO file">
+      <created>1663598401972</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1663598401973</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="exeçao parte finally" />
     <MESSAGE value="Capturando multipls exceções" />
     <MESSAGE value="Multi cath em linha" />
     <MESSAGE value="inicio aula Try Witch Resouces" />
@@ -573,7 +572,8 @@
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Meta caractes" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Range" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Quantificadores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria Regex Pattern Matcher - Quantificadores" />
+    <MESSAGE value="Classes Utilitaria IO file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria IO file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
