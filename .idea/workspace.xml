@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria NIO resolvendo paths">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/FileReaderTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria File Reader">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/BufferWriterTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/File/FileTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/FileTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/File/FileWriterTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/test/FileWriterTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/FileReaderTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Vio/FileReaderTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/devx-001/dev/repo/jm/maratona-java/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/devx-001/dev/repo/jm/maratona-java/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Sformatação/test" />
@@ -68,13 +67,26 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileReaderTest01">
+  <component name="RunManager" selected="Application.BufferWriterTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferWriterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Vio.test.BufferWriterTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Vio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,26 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelativizeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.RelativizeTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferWriterTest01" />
         <item itemvalue="Application.FileReaderTest01" />
         <item itemvalue="Application.FileWriterTest01" />
         <item itemvalue="Application.FileTest01" />
         <item itemvalue="Application.PathTest01" />
-        <item itemvalue="Application.RelativizeTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00082" summary="Orientação ao objeto.&#10;Classes abstratas. vc nao pode ter multiplas heraça no java mais você pode avô tataravô etc">
-      <created>1662416278799</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1662416278799</updated>
     </task>
     <task id="LOCAL-00083" summary="Orientação Objeto:&#10;Interfaces: quando esta utilizando interfaces vc nao não utilica mais public classe, mas sim public interface.&#10;por padrao todos metods vc declara como public abstract e pre cisa ter(;).&#10;para implementar você  declara implements e o nome da interface">
       <created>1662418016460</created>
@@ -509,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663687299284</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Classes Utilitaria File Reader">
+      <created>1663768109060</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1663768109062</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finalizado execption" />
     <MESSAGE value="classes utilitarias wrappers" />
     <MESSAGE value="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter" />
     <MESSAGE value="Classes Utilitarias String Desempenho" />
@@ -579,7 +577,8 @@
     <MESSAGE value="Classes Utilitaria NIO" />
     <MESSAGE value="Classes Utilitaria NIO NOmrmalização" />
     <MESSAGE value="Classes Utilitaria NIO resolvendo paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria NIO resolvendo paths" />
+    <MESSAGE value="Classes Utilitaria File Reader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria File Reader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
