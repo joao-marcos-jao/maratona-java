@@ -1,4 +1,4 @@
-package cursojava.devdojo.maratonajava.javacore.Vio.test.File;
+package cursojava.devdojo.maratonajava.javacore.Vio.test;
 
 import java.io.File;
 import java.io.IOException;
