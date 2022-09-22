@@ -3,7 +3,7 @@ package cursojava.devdojo.maratonajava.javacore.Wnio.test;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class RelativizeTest01 {
+public class  RelativizeTest01 {
     public static void main(String[] args) {
         Path dir = Paths.get("/home/joao");
         Path clazz = Paths.get("/home/joao/dev/");

@@ -5,7 +5,7 @@ import cursojava.devdojo.maratonajava.javacore.Qstring.test.StringBuilderTest01;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class NormalizeTes01 {
+public class  NormalizeTes01 {
     public static void main(String[] args) {
         String diretorioProjeto = "home/joao/dev";
         String arquivoTxt = "../../arquivo.txt";
