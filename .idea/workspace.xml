@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria nio">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Xserializacao/dominio/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Xserializacao/dominio/Turma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Xserializacao/test/SrializacaoTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria serialização">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +67,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SrializacaoTest01">
+  <component name="RunManager" selected="Application.EqualsTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -96,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalizeTes01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.NormalizeTes01" />
+    <configuration name="EqualsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.EqualsTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.PathTest02" />
+    <configuration name="NormalizeTes01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.NormalizeTes01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsTest01" />
         <item itemvalue="Application.SrializacaoTest01" />
         <item itemvalue="Application.BasicFileAtributtesTest01" />
         <item itemvalue="Application.RelativizeTest01" />
         <item itemvalue="Application.NormalizeTes01" />
-        <item itemvalue="Application.PathTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -166,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00086" summary="ORIENTAÇOA OBJETO&#10;POLIMORFISMO">
-      <created>1662478844167</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1662478844167</updated>
     </task>
     <task id="LOCAL-00087" summary="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : Quer dizer multi formas">
       <created>1662487630811</created>
@@ -510,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663869702938</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="Classes Utilitaria serialização">
+      <created>1663944429390</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1663944429390</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dates" />
     <MESSAGE value="classes utilitarias Calendar" />
     <MESSAGE value="Classes Utilitaria Formatação local e idioma" />
     <MESSAGE value="Classes Utilitaria Internacionlização de numeros" />
@@ -580,7 +577,8 @@
     <MESSAGE value="Classes UtilitariaBufferWriter" />
     <MESSAGE value="Classes UtilitariaBufferRead" />
     <MESSAGE value="Classes Utilitaria nio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria nio" />
+    <MESSAGE value="Classes Utilitaria serialização" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria serialização" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
