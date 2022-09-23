@@ -52,6 +52,12 @@ public class Aluno implements Serializable {
         }
     }
 
+    // se x.equals(y)== true, y.hashcode()== x.hashcode()
+    // y.hashcode() == x.hashcode()nao necessariamente o y.equals(x) temn que ser true
+    //x.equal(y)== false
+    // y.hashcode() != x.hashcode() x.equals(y) devera ser false.
+
+
     @Override
     public String toString() {
         return "Aluno{" +
