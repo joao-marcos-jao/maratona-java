@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria serialização">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Classes Utilitaria coleçoes equal e hashcode">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/ListSortTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/MangaSortTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/SmartphoneListTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Xserializacao/dominio/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Xserializacao/dominio/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/Smartphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Smartphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,26 +72,13 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EqualsTest01">
+  <component name="RunManager" selected="Application.MangaSortTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicFileAtributtesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.BasicFileAtributtesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NormalizeTes01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.NormalizeTes01" />
+    <configuration name="ListSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.ListSortTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelativizeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.RelativizeTest01" />
+    <configuration name="ListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.ListTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Wnio.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +125,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SrializacaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Xserializacao.test.SrializacaoTest01" />
+    <configuration name="MangaSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.MangaSortTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Xserializacao.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartphoneListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.SmartphoneListTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MangaSortTest01" />
+        <item itemvalue="Application.ListSortTest01" />
+        <item itemvalue="Application.SmartphoneListTest01" />
+        <item itemvalue="Application.ListTest01" />
         <item itemvalue="Application.EqualsTest01" />
-        <item itemvalue="Application.SrializacaoTest01" />
-        <item itemvalue="Application.BasicFileAtributtesTest01" />
-        <item itemvalue="Application.RelativizeTest01" />
-        <item itemvalue="Application.NormalizeTes01" />
       </list>
     </recent_temporary>
   </component>
@@ -164,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00088" summary="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : paramentro polimorficos">
-      <created>1662488733122</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1662488733122</updated>
     </task>
     <task id="LOCAL-00089" summary="ORIENTAÇOA OBJETO&#10;POLIMORFISMO : cast instaceof">
       <created>1662491543485</created>
@@ -508,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663945666343</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="Classes Utilitaria coleçoes equal e hashcode">
+      <created>1663951905489</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1663951905489</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="classes utilitarias Calendar" />
     <MESSAGE value="Classes Utilitaria Formatação local e idioma" />
     <MESSAGE value="Classes Utilitaria Internacionlização de numeros" />
     <MESSAGE value="Classes Utilitaria Internacionlização de moedas com Locale" />
@@ -578,7 +582,8 @@
     <MESSAGE value="Classes UtilitariaBufferRead" />
     <MESSAGE value="Classes Utilitaria nio" />
     <MESSAGE value="Classes Utilitaria serialização" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria serialização" />
+    <MESSAGE value="Classes Utilitaria coleçoes equal e hashcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Utilitaria coleçoes equal e hashcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -642,6 +647,11 @@
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest.java</url>
           <line>9</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java</url>

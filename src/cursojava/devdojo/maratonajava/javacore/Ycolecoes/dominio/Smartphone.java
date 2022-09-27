@@ -1,4 +1,4 @@
-package cursojava.devdojo.maratonajava.javacore.Ycolecoes;
+package cursojava.devdojo.maratonajava.javacore.Ycolecoes.dominio;
 
 public class Smartphone {
     private String serialNumber;
@@ -27,6 +27,13 @@ public class Smartphone {
         return serialNumber == null ? 0 : this.serialNumber.hashCode();
     }
 
+    @Override
+    public String toString() {
+        return "Smartphone{" +
+                "serialNumber='" + serialNumber + '\'' +
+                ", marca='" + marca + '\'' +
+                '}';
+    }
 
     public String getSerialNumber() {
         return serialNumber;
