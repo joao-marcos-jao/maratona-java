@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="converso de list para array vice e versa">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/InteratorTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Interator">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/SetTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/InteratorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/InteratorTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InteratorTest01">
+  <component name="RunManager" selected="Application.SetTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -134,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MangaSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.MangaSortTest01" />
+    <configuration name="SetTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.SetTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetTest01" />
         <item itemvalue="Application.InteratorTest01" />
         <item itemvalue="Application.ListaArrayConversaoTest01" />
         <item itemvalue="Application.BinarySearchTest02" />
         <item itemvalue="Application.BinarySearchTest01" />
-        <item itemvalue="Application.MangaSortTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00092" summary="exeçao parte finally">
-      <created>1662673264791</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1662673264792</updated>
     </task>
     <task id="LOCAL-00093" summary="Capturando multipls exceções">
       <created>1662679282983</created>
@@ -509,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664291260790</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="Interator">
+      <created>1664372858352</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1664372858353</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria LocalDate e Local Time" />
     <MESSAGE value="Classes Utilitaria Instant" />
     <MESSAGE value="Classes Utilitaria Duration" />
     <MESSAGE value="Classes Utilitaria Period" />
@@ -579,7 +577,8 @@
     <MESSAGE value="coleções" />
     <MESSAGE value=" Coleções binary" />
     <MESSAGE value="converso de list para array vice e versa" />
-    <option name="LAST_COMMIT_MESSAGE" value="converso de list para array vice e versa" />
+    <MESSAGE value="Interator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
