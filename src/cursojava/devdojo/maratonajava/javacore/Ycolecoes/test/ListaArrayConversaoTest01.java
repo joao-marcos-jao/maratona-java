@@ -28,7 +28,6 @@ public class ListaArrayConversaoTest01 {
         ArrayList<Integer> numerosList = new ArrayList<>(Arrays.asList(numerosArray));
         numerosList.add(15);
         System.out.println(numerosList);
-
-       conversao de list para  List<String> strings = Arrays.asList("1", "2");
+        List<String> strings = Arrays.asList("1", "2");
     }
 }

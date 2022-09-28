@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment=" Coleções binary">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="converso de list para array vice e versa">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/InteratorTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/ListaArrayConversaoTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListaArrayConversaoTest01">
+  <component name="RunManager" selected="Application.InteratorTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -106,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListSortTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.ListSortTest01" />
+    <configuration name="InteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.InteratorTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InteratorTest01" />
         <item itemvalue="Application.ListaArrayConversaoTest01" />
         <item itemvalue="Application.BinarySearchTest02" />
         <item itemvalue="Application.BinarySearchTest01" />
         <item itemvalue="Application.MangaSortTest01" />
-        <item itemvalue="Application.ListSortTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -163,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00091" summary="execeção Erro é algo que acontece na JVM que provalvelmete que vc nao provalvelmete nao vai poder recuperar em execução  tem que resolver  e depois executar novamente">
-      <created>1662494874295</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1662494874295</updated>
     </task>
     <task id="LOCAL-00092" summary="exeçao parte finally">
       <created>1662673264791</created>
@@ -507,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664289082312</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="converso de list para array vice e versa">
+      <created>1664291260790</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1664291260790</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria Internacionlização de moedas com Locale" />
     <MESSAGE value="Classes Utilitaria LocalDate e Local Time" />
     <MESSAGE value="Classes Utilitaria Instant" />
     <MESSAGE value="Classes Utilitaria Duration" />
@@ -577,7 +578,8 @@
     <MESSAGE value="Classes Utilitaria coleçoes equal e hashcode" />
     <MESSAGE value="coleções" />
     <MESSAGE value=" Coleções binary" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Coleções binary" />
+    <MESSAGE value="converso de list para array vice e versa" />
+    <option name="LAST_COMMIT_MESSAGE" value="converso de list para array vice e versa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -644,7 +646,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Manga.java</url>
-          <line>83</line>
+          <line>98</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
