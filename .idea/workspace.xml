@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="navigable map">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/QueueTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/QueueTest02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Queue Priority Queue ultima aula de coleçoes">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/dominio/test/GenericTes01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueTest02">
+  <component name="RunManager" selected="Application.GenericTes01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest02" />
+    <configuration name="GenericTes01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.dominio.test.GenericTes01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.dominio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericTes01" />
         <item itemvalue="Application.QueueTest02" />
         <item itemvalue="Application.QueueTest01" />
         <item itemvalue="Application.NavigableMapTest01" />
         <item itemvalue="Application.MapTest03" />
-        <item itemvalue="Application.MapTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -164,13 +163,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Multi cath em linha">
-      <created>1662683187959</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1662683187959</updated>
     </task>
     <task id="LOCAL-00098" summary="Multi cath em linha">
       <created>1662683198001</created>
@@ -508,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664456465657</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="Queue Priority Queue ultima aula de coleçoes">
+      <created>1664460411149</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1664460411149</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria Date Time Formatter" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Meta caractes" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Range" />
@@ -578,7 +576,8 @@
     <MESSAGE value="Navigable" />
     <MESSAGE value="map" />
     <MESSAGE value="navigable map" />
-    <option name="LAST_COMMIT_MESSAGE" value="navigable map" />
+    <MESSAGE value="Queue Priority Queue ultima aula de coleçoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Queue Priority Queue ultima aula de coleçoes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
