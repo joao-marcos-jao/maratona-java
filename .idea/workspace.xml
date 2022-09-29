@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Navigable">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/MapTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="map">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/dominio/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/MapTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/MapTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Ycolecoes/test/NavigableMapTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +69,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapTest01">
+  <component name="RunManager" selected="Application.NavigableMapTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -80,34 +83,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.InteratorTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListaArrayConversaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.ListaArrayConversaoTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest03" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigableMapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.NavigableMapTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -132,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.SetTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NavigableMapTest01" />
+        <item itemvalue="Application.MapTest03" />
+        <item itemvalue="Application.MapTest02" />
         <item itemvalue="Application.MapTest01" />
         <item itemvalue="Application.NavigableSetTest01" />
-        <item itemvalue="Application.SetTest01" />
-        <item itemvalue="Application.InteratorTest01" />
-        <item itemvalue="Application.ListaArrayConversaoTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -163,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Multi cath em linha">
-      <created>1662683167091</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1662683167091</updated>
     </task>
     <task id="LOCAL-00096" summary="Multi cath em linha">
       <created>1662683182636</created>
@@ -507,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664379985402</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="map">
+      <created>1664387147527</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1664387147527</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria Period" />
     <MESSAGE value="Classes Utilitaria Tempora Adjusters" />
     <MESSAGE value="Classes Utilitaria Date Time Formatter" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher" />
@@ -577,7 +579,8 @@
     <MESSAGE value="Interator" />
     <MESSAGE value="Set" />
     <MESSAGE value="Navigable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Navigable" />
+    <MESSAGE value="map" />
+    <option name="LAST_COMMIT_MESSAGE" value="map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
