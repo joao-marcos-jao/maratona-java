@@ -1,10 +1,9 @@
-package cursojava.devdojo.maratonajava.javacore.Zgenerics.dominio.test;
+package cursojava.devdojo.maratonajava.javacore.Zgenerics.test;
 
 import cursojava.devdojo.maratonajava.javacore.Ycolecoes.dominio.Consumidor;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class GenericTes01 {
     public static void main(String[] args) {
