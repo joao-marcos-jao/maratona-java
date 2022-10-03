@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic Classes genericas parte 2">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test/MetodoGenericoTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic metodo genericos">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTes02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,52 +68,13 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Sformatação.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MetodoGenericoTest01">
+  <component name="RunManager" selected="Application.OuterClassesTes02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClasseGenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClasseGenericaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClasseGenericaTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest03" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +95,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildCardTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.WildCardTest02" />
+    <configuration name="OuterClassesTes02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTes02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OuterClassesTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OuterClassesTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OuterClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OuterClassesTes02" />
+        <item itemvalue="Application.OuterClassesTest01 (2)" />
+        <item itemvalue="Application.OuterClassesTest01 (1)" />
+        <item itemvalue="Application.OuterClassesTest01" />
         <item itemvalue="Application.MetodoGenericoTest01" />
-        <item itemvalue="Application.ClasseGenericaTest03" />
-        <item itemvalue="Application.ClasseGenericaTest02" />
-        <item itemvalue="Application.ClasseGenericaTest01" />
-        <item itemvalue="Application.WildCardTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -164,13 +165,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00103" summary="finalizado execption">
-      <created>1663021726653</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1663021726654</updated>
     </task>
     <task id="LOCAL-00104" summary="classes utilitarias wrappers">
       <created>1663023512632</created>
@@ -508,7 +502,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664820138957</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="Generic metodo genericos">
+      <created>1664825633906</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1664825633906</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,7 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria IO file writer" />
     <MESSAGE value="Classes Utilitaria IO file Reader" />
     <MESSAGE value="Classes Utilitaria NIO" />
     <MESSAGE value="Classes Utilitaria NIO NOmrmalização" />
@@ -578,7 +578,8 @@
     <MESSAGE value="Generic wildCard" />
     <MESSAGE value="Generic Classes genericas parte 1" />
     <MESSAGE value="Generic Classes genericas parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic Classes genericas parte 2" />
+    <MESSAGE value="Generic metodo genericos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic metodo genericos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
