@@ -7,7 +7,7 @@ import cursojava.devdojo.maratonajava.javacore.Zgenerics.service.CarroRentavelSe
 
 public class ClasseGenericaTest02 {
     public static void main(String[] args) {
-        BarcWildoRentavelService barcoRentavelService = new BarcoRentavelService();
+    BarcoRentavelService barcoRentavelService = new BarcoRentavelService();
        Barco barco = barcoRentavelService.buscarBarcoDisponivel();
         System.out.println("Alugado o barco por um mês");
         barcoRentavelService.retornarBarcoAlugado(barco);
