@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic">
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic wildCard">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/dominio/Barco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/dominio/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/service/BarcoRentavelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/service/CarroRentavelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test/ClasseGenericaTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test/WildCardTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test/WildCardTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test/WildCardTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test/WildCardTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +65,14 @@
       <recent name="$PROJECT_DIR$/.idea/home/dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cursojava.devdojo.maratonajava.javacore.Zgenerics.test" />
+      <recent name="cursojava.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Uregex.teste" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Sformatação.test" />
-      <recent name="cursojava.devdojo.maratonajava.javacore.Fmodificadorestatico.dominio" />
-      <recent name="cursojava.devdojo.maratonajava.javacore.Dconstrutor.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WildCardTest02">
+  <component name="RunManager" selected="Application.ClasseGenericaTest02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -82,8 +86,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericTes01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.GenericTes01" />
+    <configuration name="ClasseGenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClasseGenericaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -101,19 +118,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.QueueTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClasseGenericaTest02" />
+        <item itemvalue="Application.ClasseGenericaTest01" />
         <item itemvalue="Application.WildCardTest02" />
         <item itemvalue="Application.WildCardTest01" />
         <item itemvalue="Application.ProdutoTest01" />
-        <item itemvalue="Application.GenericTes01" />
-        <item itemvalue="Application.QueueTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00100" summary="inicio aula Try Witch Resouces">
-      <created>1662739533413</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1662739533413</updated>
     </task>
     <task id="LOCAL-00101" summary="inicio aula Try Witch Resouces parte 2">
       <created>1662741747555</created>
@@ -509,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664548476717</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Generic wildCard">
+      <created>1664811623065</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1664811623066</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Range" />
     <MESSAGE value="Classes Utilitaria Regex Pattern Matcher - Quantificadores" />
     <MESSAGE value="Classes Utilitaria IO file" />
     <MESSAGE value="Classes Utilitaria IO file writer" />
@@ -579,7 +582,8 @@
     <MESSAGE value="Queue Priority Queue ultima aula de coleçoes" />
     <MESSAGE value="Generic Introdução" />
     <MESSAGE value="Generic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic" />
+    <MESSAGE value="Generic wildCard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic wildCard" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
