@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic metodo genericos">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTes02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic classes internas">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/AnonymouClassesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/AnonymousClassesTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/dominio/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/dominio/Barco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Sformatação.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OuterClassesTes02">
+  <component name="RunManager" selected="Application.AnonymouClassesTest02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -82,12 +83,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetodoGenericoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.MetodoGenericoTest01" />
+    <configuration name="AnonymouClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymouClassesTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Zgenerics.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnonymousClassesTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnonymousClassesTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnonymousClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,52 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClassesTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OuterClassesTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OuterClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnonymouClassesTest02" />
+        <item itemvalue="Application.AnonymousClassesTest01 (2)" />
+        <item itemvalue="Application.AnonymousClassesTest01 (1)" />
+        <item itemvalue="Application.AnonymousClassesTest01" />
         <item itemvalue="Application.OuterClassesTes02" />
-        <item itemvalue="Application.OuterClassesTest01 (2)" />
-        <item itemvalue="Application.OuterClassesTest01 (1)" />
-        <item itemvalue="Application.OuterClassesTest01" />
-        <item itemvalue="Application.MetodoGenericoTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00104" summary="classes utilitarias wrappers">
-      <created>1663023512632</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1663023512634</updated>
     </task>
     <task id="LOCAL-00105" summary="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter">
       <created>1663028185213</created>
@@ -509,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664825633906</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="Generic classes internas">
+      <created>1664831118949</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1664831118949</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria IO file Reader" />
     <MESSAGE value="Classes Utilitaria NIO" />
     <MESSAGE value="Classes Utilitaria NIO NOmrmalização" />
     <MESSAGE value="Classes Utilitaria NIO resolvendo paths" />
@@ -579,7 +579,8 @@
     <MESSAGE value="Generic Classes genericas parte 1" />
     <MESSAGE value="Generic Classes genericas parte 2" />
     <MESSAGE value="Generic metodo genericos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic metodo genericos" />
+    <MESSAGE value="Generic classes internas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic classes internas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -653,6 +654,11 @@
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.java</url>
           <line>8</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/AnonymousClassesTest01.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.java</url>
