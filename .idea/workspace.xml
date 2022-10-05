@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic classes anonimas">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/dominio/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/interfaces/CarPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParamentoTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParamntroTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParamntroTest03.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic parametizando comportamentos">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/test/LambdaTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +67,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Uregex.teste" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComportamentoPorParamntroTest03">
+  <component name="RunManager" selected="Application.LambdaTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -125,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClassesTest03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest03" />
+    <configuration name="LambdaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.LambdaTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,7 +133,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClassesTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OuterClassesTest03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
@@ -153,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaTest01" />
         <item itemvalue="Application.ComportamentoPorParamntroTest03" />
         <item itemvalue="Application.ComportamentoPorParamntroTest02" />
         <item itemvalue="Application.ComportamentoPorParamentoTest01" />
         <item itemvalue="Application.OuterClassesTest03 (1)" />
-        <item itemvalue="Application.OuterClassesTest03" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00106" summary="Classes Utilitarias String Desempenho">
-      <created>1663081486662</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1663081486662</updated>
     </task>
     <task id="LOCAL-00107" summary="dates">
       <created>1663086137760</created>
@@ -513,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664915388300</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Generic parametizando comportamentos">
+      <created>1664990288041</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1664990288042</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -558,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria NIO NOmrmalização" />
     <MESSAGE value="Classes Utilitaria NIO resolvendo paths" />
     <MESSAGE value="Classes Utilitaria File Reader" />
     <MESSAGE value="Classes UtilitariaBufferWriter" />
@@ -583,7 +577,8 @@
     <MESSAGE value="Generic metodo genericos" />
     <MESSAGE value="Generic classes internas" />
     <MESSAGE value="Generic classes anonimas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic classes anonimas" />
+    <MESSAGE value="Generic parametizando comportamentos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic parametizando comportamentos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
