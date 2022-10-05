@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic parametizando comportamentos">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/test/LambdaTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Lambdas consumer correção">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/test/LambdasTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Uregex.teste" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaTest01">
+  <component name="RunManager" selected="Application.LambdasTest02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -133,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClassesTest03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest03" />
+    <configuration name="LambdasTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.LambdasTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdasTest02" />
         <item itemvalue="Application.LambdaTest01" />
         <item itemvalue="Application.ComportamentoPorParamntroTest03" />
         <item itemvalue="Application.ComportamentoPorParamntroTest02" />
         <item itemvalue="Application.ComportamentoPorParamentoTest01" />
-        <item itemvalue="Application.OuterClassesTest03 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,20 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00107" summary="dates">
-      <created>1663086137760</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1663086137760</updated>
-    </task>
-    <task id="LOCAL-00108" summary="classes utilitarias Calendar">
-      <created>1663094464461</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1663094464462</updated>
     </task>
     <task id="LOCAL-00109" summary="Classes Utilitaria Formatação local e idioma">
       <created>1663171881802</created>
@@ -508,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664990288042</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="Lambdasconsumer">
+      <created>1664991217335</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1664991217335</updated>
+    </task>
+    <task id="LOCAL-00157" summary="Lambdas consumer correção">
+      <created>1664991262650</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1664991262650</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,8 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria NIO resolvendo paths" />
-    <MESSAGE value="Classes Utilitaria File Reader" />
     <MESSAGE value="Classes UtilitariaBufferWriter" />
     <MESSAGE value="Classes UtilitariaBufferRead" />
     <MESSAGE value="Classes Utilitaria nio" />
@@ -578,7 +576,9 @@
     <MESSAGE value="Generic classes internas" />
     <MESSAGE value="Generic classes anonimas" />
     <MESSAGE value="Generic parametizando comportamentos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic parametizando comportamentos" />
+    <MESSAGE value="Lambdasconsumer" />
+    <MESSAGE value="Lambdas consumer correção" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambdas consumer correção" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
