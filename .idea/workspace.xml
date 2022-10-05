@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic classes internas">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/AnonymouClassesTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/AnonymousClassesTest01.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Generic classes anonimas">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZAclassesinternas/test/OuterClassesTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/dominio/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/interfaces/CarPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParamentoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParamntroTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZBcomportamento/test/ComportamentoPorParamntroTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/dominio/Barco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/dominio/Barco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +65,14 @@
       <recent name="$PROJECT_DIR$/.idea/home/dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Uregex.teste" />
-      <recent name="cursojava.devdojo.maratonajava.javacore.Sformatação.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnonymouClassesTest02">
+  <component name="RunManager" selected="Application.ComportamentoPorParamntroTest03">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -83,8 +86,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymouClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymouClassesTest02" />
+    <configuration name="ComportamentoPorParamentoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParamentoTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComportamentoPorParamntroTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParamntroTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComportamentoPorParamntroTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParamntroTest03" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OuterClassesTest03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -96,47 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousClassesTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnonymousClassesTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnonymousClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OuterClassesTes02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTes02" />
+    <configuration name="OuterClassesTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZAclassesinternas.test.OuterClassesTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnonymouClassesTest02" />
-        <item itemvalue="Application.AnonymousClassesTest01 (2)" />
-        <item itemvalue="Application.AnonymousClassesTest01 (1)" />
-        <item itemvalue="Application.AnonymousClassesTest01" />
-        <item itemvalue="Application.OuterClassesTes02" />
+        <item itemvalue="Application.ComportamentoPorParamntroTest03" />
+        <item itemvalue="Application.ComportamentoPorParamntroTest02" />
+        <item itemvalue="Application.ComportamentoPorParamentoTest01" />
+        <item itemvalue="Application.OuterClassesTest03 (1)" />
+        <item itemvalue="Application.OuterClassesTest03" />
       </list>
     </recent_temporary>
   </component>
@@ -166,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00105" summary="classes utilitarias String &#10;OQUE APREDI NA AULA DE STRING?&#10;1 Que as String são Imutaveis&#10;o length dos array é um atributo / o lengthda String é um metodo&#10;o Replace vai trocar o primero carcter">
-      <created>1663028185213</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1663028185213</updated>
     </task>
     <task id="LOCAL-00106" summary="Classes Utilitarias String Desempenho">
       <created>1663081486662</created>
@@ -510,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664831118949</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="Generic classes anonimas">
+      <created>1664915388300</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1664915388300</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes Utilitaria NIO" />
     <MESSAGE value="Classes Utilitaria NIO NOmrmalização" />
     <MESSAGE value="Classes Utilitaria NIO resolvendo paths" />
     <MESSAGE value="Classes Utilitaria File Reader" />
@@ -580,7 +582,8 @@
     <MESSAGE value="Generic Classes genericas parte 2" />
     <MESSAGE value="Generic metodo genericos" />
     <MESSAGE value="Generic classes internas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic classes internas" />
+    <MESSAGE value="Generic classes anonimas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generic classes anonimas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
