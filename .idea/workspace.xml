@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Lambdas function">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/dominio/Anime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/service/AnimeComparators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferenceTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferenceTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferenceTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZClambdas/test/MethodReferencetes02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Lambdas methodos reference">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZDoptional/dominio/Manga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZDoptional/repositorio/MangaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZDoptional/test/OptionalTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZDoptional/test/OptionalTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +70,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Uregex.teste" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodReferenceTest04">
+  <component name="RunManager" selected="Application.OptionalTest02">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -86,34 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdasTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.LambdasTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MethodReferenceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.MethodReferenceTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodReferenceTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZClambdas.test.MethodReferenceTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -151,13 +123,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OptionalTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZDoptional.test.OptionalTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZDoptional.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZDoptional.test.OptionalTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZDoptional.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalTest02" />
+        <item itemvalue="Application.OptionalTest01" />
         <item itemvalue="Application.MethodReferenceTest04" />
         <item itemvalue="Application.MethodReferencetes02" />
         <item itemvalue="Application.MethodReferenceTest01" />
-        <item itemvalue="Application.MethodReferenceTest03" />
-        <item itemvalue="Application.LambdasTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Classes Utilitaria Internacionlização de numeros">
-      <created>1663173964343</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1663173964343</updated>
     </task>
     <task id="LOCAL-00111" summary="Classes Utilitaria Internacionlização de moedas com Locale">
       <created>1663176334809</created>
@@ -513,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664994386205</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="Lambdas methodos reference">
+      <created>1665003343208</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1665003343208</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -558,7 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Classes UtilitariaBufferRead" />
     <MESSAGE value="Classes Utilitaria nio" />
     <MESSAGE value="Classes Utilitaria serialização" />
     <MESSAGE value="Classes Utilitaria coleçoes equal e hashcode" />
@@ -583,7 +580,8 @@
     <MESSAGE value="Lambdasconsumer" />
     <MESSAGE value="Lambdas consumer correção" />
     <MESSAGE value="Lambdas function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambdas function" />
+    <MESSAGE value="Lambdas methodos reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambdas methodos reference" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
