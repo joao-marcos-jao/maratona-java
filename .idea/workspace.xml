@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Stream find and matching">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest09.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Stream">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,26 +67,13 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Uregex.teste" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamTest09">
+  <component name="RunManager" selected="Application.StreamTest10">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest05" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest10" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamTest10" />
         <item itemvalue="Application.StreamTest09" />
         <item itemvalue="Application.StreamTest08" />
         <item itemvalue="Application.StreamTest07" />
         <item itemvalue="Application.StreamTest06" />
-        <item itemvalue="Application.StreamTest05" />
       </list>
     </recent_temporary>
   </component>
@@ -166,20 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Classes Utilitaria Period">
-      <created>1663262710366</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1663262710366</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Classes Utilitaria Tempora Adjusters">
-      <created>1663345708558</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1663345708558</updated>
     </task>
     <task id="LOCAL-00117" summary="Classes Utilitaria Date Time Formatter">
       <created>1663359666848</created>
@@ -510,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665174570768</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="Stream Reduce">
+      <created>1665689076540</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1665689076541</updated>
+    </task>
+    <task id="LOCAL-00165" summary="Stream">
+      <created>1665689433259</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1665689433259</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,8 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Coleções binary" />
-    <MESSAGE value="converso de list para array vice e versa" />
     <MESSAGE value="Interator" />
     <MESSAGE value="Set" />
     <MESSAGE value="Navigable" />
@@ -580,7 +576,9 @@
     <MESSAGE value="Stream introdução" />
     <MESSAGE value="Stream flatmap" />
     <MESSAGE value="Stream find and matching" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream find and matching" />
+    <MESSAGE value="Stream Reduce" />
+    <MESSAGE value="Stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
