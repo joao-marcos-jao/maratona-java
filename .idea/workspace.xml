@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Stream Groupping BY">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZEstreams/test/StreamTest16.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Stream Parallel">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/dominio/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/dominio/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/DeadLockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/EmailDEliveryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadAcountTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadSafeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +47,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "/home/devx-001/Documents/Joao Marcos/Curso Java/maratona-java/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/devx-001/Documents/Joao Marcos/Curso Java/maratona-java/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Zgenerics/test" />
@@ -68,7 +76,7 @@
       <recent name="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamTest16">
+  <component name="RunManager" selected="Application.EmailDEliveryTest01">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -82,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest12" />
+    <configuration name="DeadLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.DeadLockTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest13" />
+    <configuration name="EmailDEliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.EmailDEliveryTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest15" />
+    <configuration name="ThreadAcountTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadAcountTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.StreamTest16" />
+    <configuration name="ThreadSafeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadSafeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Streamtest14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.Streamtest14" />
+    <configuration name="ThreadTest02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamTest16" />
-        <item itemvalue="Application.StreamTest15" />
-        <item itemvalue="Application.Streamtest14" />
-        <item itemvalue="Application.StreamTest13" />
-        <item itemvalue="Application.StreamTest12" />
+        <item itemvalue="Application.EmailDEliveryTest01" />
+        <item itemvalue="Application.DeadLockTest01" />
+        <item itemvalue="Application.ThreadSafeTest01" />
+        <item itemvalue="Application.ThreadAcountTest01" />
+        <item itemvalue="Application.ThreadTest02 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -165,13 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Classes Utilitaria Regex Pattern Matcher - Range">
-      <created>1663515125418</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1663515125418</updated>
     </task>
     <task id="LOCAL-00121" summary="Classes Utilitaria Regex Pattern Matcher - Quantificadores">
       <created>1663516525004</created>
@@ -509,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666035039319</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="Stream Parallel">
+      <created>1666105464308</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1666105464308</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="map" />
     <MESSAGE value="navigable map" />
     <MESSAGE value="Queue Priority Queue ultima aula de coleçoes" />
     <MESSAGE value="Generic Introdução" />
@@ -579,7 +586,8 @@
     <MESSAGE value="Stream Gerando Stream" />
     <MESSAGE value="Stream Collector sumarizing" />
     <MESSAGE value="Stream Groupping BY" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream Groupping BY" />
+    <MESSAGE value="Stream Parallel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream Parallel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
