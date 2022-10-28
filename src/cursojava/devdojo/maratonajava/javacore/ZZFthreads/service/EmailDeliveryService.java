@@ -26,5 +26,6 @@ public class EmailDeliveryService implements Runnable {
             }
         }
         System.out.println(threadName + " Todos emails foram enviado com sucesso");
+
     }
 }

@@ -4,17 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Stream Parallel">
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/dominio/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/dominio/Members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/DeadLockTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/EmailDEliveryTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadAcountTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadSafeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/test/ThreadTest02.java" afterDir="false" />
+    <list default="true" id="b3e79f0f-0880-4dc2-abc1-e640ac3ef6df" name="Changes" comment="Stream Threads">
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/dominio/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/dominio/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/dominio/Quote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/service/EmailDeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/service/StoreServiDepricated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/service/StoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/service/StoreServiceWithDiscout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/BlockingQueueTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CallableTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CompletableFutureTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CompletableFutureTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CompletableFutureTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CompletableFutureTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CompletableFutureTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CopyOnWiriteTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/EmailDeliveryTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ExecutorsTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/FutureTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/LinkedTransferQueueTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ReentrantLockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ReentrantReadWriterLockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ScheduledThreadPoolTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Rdates/test/ZoneTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/Rdates/test/ZoneTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/dominio/Members.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/dominio/Members.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cursojava/devdojo/maratonajava/javacore/ZZFthreads/service/EmailDeliveryService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,14 +86,14 @@
       <recent name="$PROJECT_DIR$/.idea/home/dev" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.ZZEstreams.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="cursojava.devdojo.maratonajava.javacore.Zgenerics.service" />
-      <recent name="cursojava.devdojo.maratonajava.javacore.Ycolecoes.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmailDEliveryTest01">
+  <component name="RunManager" selected="Application.CompletableFutureTest05">
     <configuration name="AnimeTest01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.Csobrecargametodos.test.AnimeTest01" />
       <module name="maratona-java" />
@@ -90,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.DeadLockTest01" />
+    <configuration name="CompletableFutureTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.CompletableFutureTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmailDEliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.EmailDEliveryTest01" />
+    <configuration name="CompletableFutureTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.CompletableFutureTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadAcountTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadAcountTest01" />
+    <configuration name="CompletableFutureTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.CompletableFutureTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSafeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadSafeTest01" />
+    <configuration name="CompletableFutureTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.CompletableFutureTest04" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadTest02" />
+    <configuration name="CompletableFutureTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.CompletableFutureTest05" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
+          <option name="PATTERN" value="cursojava.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmailDEliveryTest01" />
-        <item itemvalue="Application.DeadLockTest01" />
-        <item itemvalue="Application.ThreadSafeTest01" />
-        <item itemvalue="Application.ThreadAcountTest01" />
-        <item itemvalue="Application.ThreadTest02 (2)" />
+        <item itemvalue="Application.CompletableFutureTest05" />
+        <item itemvalue="Application.CompletableFutureTest04" />
+        <item itemvalue="Application.CompletableFutureTest03" />
+        <item itemvalue="Application.CompletableFutureTest02" />
+        <item itemvalue="Application.CompletableFutureTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -173,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660843257746</updated>
-    </task>
-    <task id="LOCAL-00121" summary="Classes Utilitaria Regex Pattern Matcher - Quantificadores">
-      <created>1663516525004</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1663516525004</updated>
     </task>
     <task id="LOCAL-00122" summary="Classes Utilitaria Regex Pattern Matcher - Quantificadores">
       <created>1663522025468</created>
@@ -517,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666105464308</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="Stream Threads">
+      <created>1666284117150</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1666284117151</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="navigable map" />
     <MESSAGE value="Queue Priority Queue ultima aula de coleçoes" />
     <MESSAGE value="Generic Introdução" />
     <MESSAGE value="Generic" />
@@ -587,7 +603,8 @@
     <MESSAGE value="Stream Collector sumarizing" />
     <MESSAGE value="Stream Groupping BY" />
     <MESSAGE value="Stream Parallel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream Parallel" />
+    <MESSAGE value="Stream Threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream Threads" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -688,6 +705,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.nio.file.FileAlreadyExistsException" package="java.nio.file" />
           <option name="timeStamp" value="46" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="51" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
